@@ -1,0 +1,998 @@
+,brand_name,model,price (Indian Rupe),has_5G,processor_brand,processor_name,ram,memory,nivel_ram
+0,oneplus,OnePlus Nord 6,38999,True,qualcomm,Snapdragon 8s Gen4,8.0,256.0,media
+1,samsung,Samsung Galaxy S25 Ultra,110000,True,qualcomm,Snapdragon 8 Elite for Galaxy,12.0,256.0,alta
+2,vivo,Vivo T5 Pro,29999,True,qualcomm,Snapdragon 7s Gen4,8.0,128.0,media
+3,samsung,Samsung Galaxy S25 FE,50743,True,samsung,Exynos 2400,8.0,128.0,media
+4,vivo,Vivo T5x 5G,18999,True,mediatek,Dimensity 7400 Turbo,6.0,128.0,media
+5,vivo,Vivo T5 5G,23990,True,qualcomm,Snapdragon 7s Gen4,8.0,128.0,media
+6,motorola,Motorola Edge 70 Fusion,25999,True,qualcomm,Snapdragon 7s Gen4,8.0,128.0,media
+7,xiaomi,Xiaomi Redmi Note 15 5G Special Edition,19999,True,qualcomm,Snapdragon 6 Gen3,6.0,128.0,media
+8,realme,Realme 16 5G,31999,True,mediatek,Dimensity 6400 Turbo,8.0,128.0,media
+9,vivo,Vivo V70 FE,37999,True,mediatek,Dimensity 7360 Turbo,8.0,128.0,media
+10,oneplus,OnePlus Nord CE 6 5G,26990,True,qualcomm,Octa Core Processor,8.0,128.0,media
+11,oneplus,OnePlus Nord CE 5 5G (8GB RAM + 256GB),24250,True,mediatek,Dimensity 8350 Apex,8.0,256.0,media
+12,infinix,Infinix Note 60 Pro 5G,25999,True,qualcomm,Snapdragon 7s Gen4,8.0,256.0,media
+13,vivo,Vivo V70 5G,45999,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+14,vivo,Vivo T4 Pro 5G,27177,True,qualcomm,Snapdragon 7 Gen4,8.0,128.0,media
+15,iqoo,iQOO Z11,25990,True,mediatek,Dimensity 8500,8.0,256.0,media
+16,infinix,Infinix Note 60 Ultra,31990,True,mediatek,Dimensity 8400 Ultimate,12.0,256.0,alta
+17,oneplus,OnePlus Nord CE 5 5G (12GB RAM + 256GB),28999,True,mediatek,Dimensity 8350 Apex,12.0,256.0,alta
+18,realme,Realme P4 Power 5G,24879,True,mediatek,Dimensity 7400 Ultra,8.0,128.0,media
+19,motorola,Motorola Edge 60 Fusion,20900,True,mediatek,Dimensity 7400,8.0,256.0,media
+20,motorola,Motorola Moto G67 Power 5G,17190,True,qualcomm,Snapdragon 7s Gen2,8.0,128.0,media
+21,vivo,Vivo T5 Ultra,39990,True,dimensity,Octa Core Processor,8.0,256.0,media
+22,apple,Apple iPhone 17,82900,True,apple,Apple A19,8.0,256.0,media
+23,vivo,Vivo T5x 5G (8GB RAM + 256GB),22999,True,mediatek,Dimensity 7400 Turbo,8.0,256.0,media
+24,oneplus,OnePlus Nord 5 5G,33999,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+25,oppo,OPPO K13,19149,True,qualcomm,Snapdragon 6 Gen4,8.0,128.0,media
+26,motorola,Motorola Edge 60 Pro,28906,True,mediatek,Dimensity 8350 Extreme,8.0,256.0,media
+27,realme,Realme P4 5G,20990,True,mediatek,Dimensity 7400 Ultra,6.0,128.0,media
+28,vivo,Vivo X300 Ultra,95990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+29,ai+,Ai+ Nova 2 Ultra,14999,True,mediatek,Dimensity 7400,6.0,128.0,media
+30,iqoo,iQOO Z11x,18999,True,mediatek,Dimensity 7400 Turbo,6.0,128.0,media
+31,oppo,Oppo F33,25999,True,mediatek,Dimensity 6360 Max,8.0,128.0,media
+32,oppo,OPPO K13x 5G (6GB RAM +128GB),13999,True,mediatek,Dimensity 6300,6.0,128.0,media
+33,samsung,Samsung Galaxy A18 5G,20999,True,samsung,Octa Core Processor,6.0,128.0,media
+34,realme,Realme P4x 5G,16749,True,mediatek,Dimensity 7400 Ultra,6.0,128.0,media
+35,motorola,Motorola Moto G57 Power,16349,True,qualcomm,Snapdragon 6s Gen4,8.0,128.0,media
+36,samsung,Samsung Galaxy S26 Ultra 5G,126750,True,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,12.0,256.0,alta
+37,iqoo,iQOO 15R,44998,True,qualcomm,Snapdragon 8 Gen5,8.0,256.0,media
+38,samsung,Samsung Galaxy S24 5G (Snapdragon),45000,True,qualcomm,Snapdragon 8 Gen3,8.0,256.0,media
+39,realme,Realme P3x 5G,12999,True,mediatek,Dimensity 6400,6.0,128.0,media
+40,oneplus,OnePlus Nord CE 4 5G,19999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+41,xiaomi,Xiaomi Redmi 15A 5G,12999,True,unisoc,Unisoc T8300,4.0,64.0,baixa
+42,realme,Realme C63 5G (6GB RAM + 128GB),10999,True,mediatek,Dimensity 6300,6.0,128.0,media
+43,motorola,Motorola Moto G86 Power 5G,17835,True,mediatek,Dimensity 7400,8.0,128.0,media
+44,xiaomi,Xiaomi Redmi A7 Pro,13999,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+45,nothing,Nothing Phone (4a) Pro,39999,True,qualcomm,Snapdragon 7 Gen 4,8.0,128.0,media
+46,oneplus,OnePlus 15,72999,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+47,vivo,Vivo T5 Lite 5G,10999,True,mediatek,Dimensity 6400,6.0,128.0,media
+48,xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 256GB),23999,True,qualcomm,Snapdragon 6 Gen3,8.0,256.0,media
+49,motorola,Motorola Moto G96 5G,18178,True,qualcomm,Snapdragon 7s Gen2,8.0,128.0,media
+50,vivo,Vivo T4x 5G,16999,True,mediatek,Dimensity 7300,6.0,128.0,media
+51,oneplus,OnePlus 15T,42990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+52,poco,Poco X8 Pro 5G,32999,True,mediatek,Dimensity 8500 Ultra,8.0,256.0,media
+53,motorola,Motorola Moto G45 5G,10997,True,qualcomm,Snapdragon 6s Gen3,4.0,128.0,baixa
+54,realme,Realme 15 Pro 5G,29990,True,qualcomm,Snapdragon 7 Gen4,8.0,128.0,media
+55,oppo,Oppo Find X9 Ultra,80990,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+56,poco,Poco X7 Pro 5G,23999,True,mediatek,Dimensity 8400 Ultra,8.0,256.0,media
+57,apple,Apple iPhone 16,69900,True,apple,Bionic A18,8.0,128.0,media
+58,xiaomi,Xiaomi Redmi Note 13 5G,14498,True,mediatek,Dimensity 6080,6.0,128.0,media
+59,realme,Realme 16 Pro 5G,34999,True,mediatek,Dimensity 7300 Max,8.0,128.0,media
+60,motorola,Motorola Edge 70 Pro,31999,True,unknown,Octa Core Processor,8.0,256.0,media
+61,oneplus,OnePlus 15R 5G,50499,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+62,oneplus,OnePlus Nord 6 5G (12GB RAM +256GB),41999,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+63,samsung,Samsung Galaxy A07 5G,13200,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+64,xiaomi,Xiaomi Redmi Note 15 5G,24999,True,qualcomm,Snapdragon 6 Gen3,8.0,128.0,media
+65,vivo,Vivo V60 5G,36999,True,qualcomm,Snapdragon 7 Gen4,8.0,128.0,media
+66,motorola,Motorola Edge 70 Fusion 5G (8GB RAM + 256 GB),29890,True,qualcomm,Snapdragon 7s Gen4,8.0,256.0,media
+67,realme,Realme P3 5G,15999,True,qualcomm,Snapdragon 6 Gen4,6.0,128.0,media
+68,motorola,Motorola Moto G64 5G,13999,True,mediatek,Dimensity 7025,8.0,128.0,media
+69,samsung,Samsung Galaxy M56 5G,21999,True,samsung,Exynos 1480,8.0,128.0,media
+70,oneplus,OnePlus Nord CE 5 5G,24999,True,mediatek,Dimensity 8350 Apex,8.0,128.0,media
+71,oppo,Oppo Reno 15 Pro Mini,59999,True,mediatek,Dimensity 8450,12.0,256.0,alta
+72,samsung,Samsung Galaxy M37 5G,17990,True,samsung,Octa Core Processor,8.0,128.0,media
+73,xiaomi,Xiaomi Redmi Turbo 4 Pro,23990,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+74,realme,Realme Narzo 90,18999,True,mediatek,Dimensity 6400 Max,6.0,128.0,media
+75,oppo,OPPO K15,23999,True,unknown,Octa Core Processor,8.0,128.0,media
+76,tecno,Tecno Camon 40 Pro 5G,25990,True,mediatek,Dimensity 7300,8.0,256.0,media
+77,samsung,Samsung Galaxy A35 5G,26990,True,samsung,Exynos 1380,8.0,128.0,media
+78,apple,Apple iPhone 17 Pro Max,149900,True,apple,Apple A19 Pro,12.0,256.0,alta
+79,vivo,Vivo X300,75998,True,mediatek,Dimensity 9500,12.0,256.0,alta
+80,nothing,Nothing Phone 3a,24999,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+81,vivo,Vivo T4 5G,24299,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+82,vivo,Vivo V70 Elite 5G (12GB RAM + 256GB),56999,True,qualcomm,Snapdragon 8s Gen3,12.0,256.0,alta
+83,iqoo,iQOO 15,72998,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+84,oppo,Oppo K12s,12990,True,qualcomm,Snapdragon 6 Gen4,8.0,128.0,media
+85,samsung,Samsung Galaxy A17 5G,18900,True,samsung,Exynos 1330,6.0,128.0,media
+86,vivo,Vivo V70 FE 5G (12GB RAM + 256GB),44999,True,mediatek,Dimensity 7360 Turbo,12.0,256.0,alta
+87,iqoo,iQOO Z11 Turbo,31990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+88,oppo,OPPO Reno 14 5G,39999,True,mediatek,Dimensity 8350,8.0,256.0,media
+89,xiaomi,Xiaomi Redmi 14C 5G,9499,True,qualcomm,Snapdragon 4 Gen2,4.0,64.0,baixa
+90,apple,Apple iPhone 15,59900,True,apple,Bionic A16,6.0,128.0,media
+91,vivo,Vivo T5x 5G (8GB RAM + 128GB),20999,True,mediatek,Dimensity 7400 Turbo,8.0,128.0,media
+92,lava,Lava Bold 5G,10999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+93,nothing,Nothing Phone 4a,31999,True,qualcomm,Snapdragon 7s Gen4,8.0,128.0,media
+94,oneplus,OnePlus Turbo 6,29999,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+95,samsung,Samsung Galaxy A27 5G,29999,True,samsung,Octa Core Processor,6.0,128.0,media
+96,samsung,Samsung Galaxy A57 5G,56999,True,samsung,Exynos 1680,8.0,256.0,media
+97,honor,Honor Magic 8 Pro Air,49990,True,mediatek,Dimensity 9500,12.0,256.0,alta
+98,vivo,Vivo Y31d,11990,False,qualcomm,Snapdragon 6s Gen 2 4G,6.0,128.0,media
+99,samsung,SAMSUNG Galaxy S26 5G,75800,True,samsung,Exynos 2600,12.0,256.0,alta
+100,xiaomi,Xiaomi Redmi Note 15 Pro 5G,28999,True,mediatek,Dimensity 7400 Ultra,8.0,128.0,media
+101,xiaomi,Xiaomi Redmi Note 14 SE 5G,17999,True,mediatek,Dimensity 7025 Ultra,6.0,128.0,media
+102,google,Google Pixel 9A,39999,True,google,Tensor G4,8.0,256.0,media
+103,motorola,Motorola Edge 60 Stylus,20750,True,qualcomm,Snapdragon 7s Gen2,8.0,256.0,media
+104,motorola,Motorola Signature,52990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+105,iqoo,iQOO Neo 10R,31990,True,qualcomm,Snapdragon 8s Gen3,8.0,128.0,media
+106,motorola,Motorola Edge 70 5G,29990,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+107,poco,Poco M7 Plus 5G,15716,True,qualcomm,Snapdragon 6s Gen3,6.0,128.0,media
+108,samsung,Samsung Galaxy M57 5G,29990,True,samsung,Exynos,8.0,128.0,media
+109,poco,Poco M7 Pro 5G,14999,True,mediatek,Dimensity 7025 Ultra,6.0,128.0,media
+110,oppo,OPPO Reno 15 5G,45999,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+111,apple,Apple iPhone 15 Plus,59994,True,apple,Bionic A16,6.0,128.0,media
+112,oppo,OPPO K15 Pro,42999,True,mediatek,Dimensity 8500,12.0,256.0,alta
+113,google,Google Pixel 10 5G (128GB),59990,True,google,Tensor G5,12.0,128.0,alta
+114,vivo,Vivo X200 FE,54999,True,mediatek,Dimensity 9300 Plus,12.0,256.0,alta
+115,realme,Realme Neo 8,29990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+116,realme,Realme P1 5G,13999,True,mediatek,Dimensity 7050,6.0,128.0,media
+117,samsung,Samsung Galaxy M36 5G (8GB RAM + 128GB),16950,True,samsung,Exynos 1380,8.0,128.0,media
+118,samsung,Samsung Galaxy M17e 5G,12999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+119,poco,Poco X8 Pro Max,42999,True,mediatek,Dimensity 9500s,12.0,256.0,alta
+120,motorola,Motorola Moto G45 5G (8GB RAM + 128GB),12269,True,qualcomm,Snapdragon 6s Gen3,8.0,128.0,media
+121,oneplus,OnePlus 13R 5G,41999,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+122,samsung,Samsung Galaxy S24 FE 5G,40499,True,samsung,Exynos 2400e,8.0,128.0,media
+123,oneplus,OnePlus 16,89990,True,qualcomm,Snapdragon 8 Elite Gen 6 Pro,12.0,256.0,alta
+124,tecno,Tecno Pova 7 5G,14999,True,mediatek,Dimensity 7300 Ultimate,8.0,128.0,media
+125,realme,Realme GT 7,36880,True,mediatek,Dimensity 9400e,8.0,256.0,media
+126,cmf,CMF Phone 3 Pro,24990,True,unknown,Octa Core Processor,8.0,128.0,media
+127,oppo,Oppo F31 5G,26999,True,mediatek,Dimensity 6300,8.0,128.0,media
+128,realme,Realme 16 5G (8GB RAM + 256GB),33999,True,mediatek,Dimensity 6400 Turbo,8.0,256.0,media
+129,vivo,Vivo X200T,59999,True,mediatek,Dimensity 9400 Plus,12.0,256.0,alta
+130,samsung,Samsung Galaxy F05,6499,False,mediatek,Helio G85,4.0,64.0,baixa
+131,vivo,Vivo V70 FE 5G (8GB RAM + 256GB),40999,True,mediatek,Dimensity 7360 Turbo,8.0,256.0,media
+132,google,Google Pixel 10A,47480,True,google,Tensor G4,8.0,256.0,media
+133,vivo,Vivo X300 Pro 5G,109998,True,mediatek,Dimensity 9500,16.0,512.0,alta
+134,xiaomi,Xiaomi Redmi 15 5G,16499,True,qualcomm,Snapdragon 6s Gen3,6.0,128.0,media
+135,cmf,CMF Phone 2 Pro,18999,True,mediatek,Dimensity 7300 Pro,8.0,128.0,media
+136,motorola,Motorola Moto G67 Power 5G (8GB RAM + 256GB),19999,True,qualcomm,Snapdragon 7s Gen2,8.0,256.0,media
+137,apple,Apple iPhone 16 Pro,103990,True,apple,Bionic A18 Pro,8.0,128.0,media
+138,samsung,Samsung Galaxy A37 5G,38999,True,samsung,Exynos 1480,8.0,128.0,media
+139,honor,Honor Robot Phone,99990,True,unknown,Octa Core Processor,12.0,512.0,alta
+140,tecno,Tecno Spark Go 5G,9999,True,mediatek,Dimensity 6400,4.0,128.0,baixa
+141,xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 128GB),21999,True,qualcomm,Snapdragon 6 Gen3,8.0,128.0,media
+142,iqoo,iQOO Neo 11,39990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+143,iqoo,iQOO Z11x 5G (8GB RAM + 256GB),22999,True,mediatek,Dimensity 7400 Turbo,8.0,256.0,media
+144,oneplus,OnePlus 15 5G (16GB RAM + 512GB),79999,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+145,realme,Realme Narzo 80x 5G (8GB RAM + 128GB),13999,True,mediatek,Dimensity 6400,8.0,128.0,media
+146,vivo,Vivo V60e,31999,True,mediatek,Dimensity 7360 Turbo,8.0,128.0,media
+147,iqoo,iQOO Z10 5G,24998,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+148,honor,Honor WIN RT,34999,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+149,samsung,Samsung Galaxy A36 5G,29953,True,qualcomm,Snapdragon 6 Gen3,8.0,128.0,media
+150,iqoo,iQOO Neo 10,35990,True,qualcomm,Snapdragon 8s Gen4,8.0,128.0,media
+151,samsung,Samsung Galaxy S25 5G,74999,True,qualcomm,Snapdragon 8Elite,12.0,256.0,alta
+152,oneplus,OnePlus 13s 5G,52999,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+153,oppo,Oppo K13 (8GB RAM + 256GB),21380,True,qualcomm,Snapdragon 6 Gen4,8.0,256.0,media
+154,oppo,OPPO K14x 5G,14999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+155,vivo,Vivo T4R 5G,22798,True,mediatek,Dimensity 7400,8.0,128.0,media
+156,oppo,Oppo K13 Turbo,26550,True,mediatek,Dimensity 8450,8.0,128.0,media
+157,motorola,Motorola Moto G05,7299,False,mediatek,Helio G81 Ultra,4.0,64.0,baixa
+158,vivo,Vivo T4 Pro 5G (8GB RAM + 256GB),29240,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+159,samsung,Samsung Galaxy S24 Ultra,109999,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+160,vivo,Vivo Y400 Pro 5G,25999,True,mediatek,Dimensity 7300,8.0,128.0,media
+161,samsung,Samsung Galaxy M14 4G,7773,False,qualcomm,Snapdragon 680,4.0,64.0,baixa
+162,xiaomi,Xiaomi Redmi Note 15 Pro Plus,36999,True,qualcomm,Snapdragon 7s Gen4,8.0,256.0,media
+163,vivo,Vivo T4 Ultra,37690,True,mediatek,Dimensity 9300 Plus,8.0,256.0,media
+164,motorola,Motorola Moto G35 5G,13495,True,unisoc,Unisoc T760,4.0,128.0,baixa
+165,motorola,Motorola Edge 70 Fusion 5G (12GB RAM + 256 GB),32999,True,qualcomm,Snapdragon 7s Gen4,12.0,256.0,alta
+166,realme,Realme P4 Lite 5G,13499,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+167,samsung,Samsung Galaxy S26 FE,65990,True,samsung,Exynos 2500,8.0,128.0,media
+168,samsung,Samsung Galaxy M17e 5G (6GB RAM + 128GB),14972,True,mediatek,Dimensity 6300,6.0,128.0,media
+169,oppo,OPPO K14,18884,True,mediatek,Dimensity 6300,6.0,128.0,media
+170,motorola,Motorola Edge 60 Fusion 5G (12GB RAM + 256GB),24832,True,mediatek,Dimensity 7400,12.0,256.0,alta
+171,samsung,Samsung Galaxy S26 Ultra (12GB RAM + 512GB),132499,True,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,12.0,512.0,alta
+172,vivo,Vivo Y51 Pro,24999,True,mediatek,Dimensity 7360 Turbo,8.0,128.0,media
+173,oppo,OPPO Reno 14 Pro 5G,45499,True,mediatek,Dimensity 8450,12.0,256.0,alta
+174,apple,Apple iPhone 17 Pro,134900,True,apple,Apple A19 Pro,12.0,256.0,alta
+175,vivo,Vivo Y37c,7999,True,unisoc,Unisoc T7225,6.0,128.0,media
+176,samsung,Samsung Galaxy M17 5G,13999,True,samsung,Exynos 1330,4.0,128.0,baixa
+177,nothing,Nothing Phone 3a Lite,21869,True,mediatek,Dimensity 7300 Pro,8.0,128.0,media
+178,vivo,Vivo V70 Elite,51999,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+179,vivo,Vivo T4 Lite 5G,13999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+180,poco,Poco F7 5G,35899,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+181,apple,Apple iPhone 13,45690,True,apple,Bionic A15,4.0,128.0,baixa
+182,oneplus,OnePlus Turbo 6V,24990,True,qualcomm,Snapdragon 7s Gen 4,8.0,256.0,media
+183,infinix,Infinix Note 60,19990,True,mediatek,Dimensity 7400,8.0,128.0,media
+184,vivo,Vivo Y31 5G,18999,True,qualcomm,Snapdragon 4 Gen2,4.0,128.0,baixa
+185,oppo,Oppo Find N6,129990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+186,realme,Realme 16 5G (12GB RAM + 256GB),36999,True,mediatek,Dimensity 6400 Turbo,12.0,256.0,alta
+187,realme,Realme P3 Ultra,25999,True,mediatek,Dimensity 8350 Ultra,8.0,128.0,media
+188,realme,Realme GT 6 5G (16GB RAM + 512GB),32999,True,qualcomm,Snapdragon 8s Gen3,16.0,512.0,alta
+189,infinix,Infinix Note 50 Pro 5G,23990,True,mediatek,Dimensity 7200,8.0,256.0,media
+190,realme,Realme P4 Power 5G (8GB RAM + 256GB),27949,True,mediatek,Dimensity 7400 Ultra,8.0,256.0,media
+191,vivo,Vivo Y05,9999,False,unisoc,Unisoc T7225,4.0,64.0,baixa
+192,vivo,Vivo V70 5G (12GB RAM + 256GB),46475,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+193,realme,Realme P4 5G (8GB RAM + 256GB),22999,True,mediatek,Dimensity 7400 Ultra,8.0,256.0,media
+194,motorola,Motorola Edge 50 Fusion,20849,True,qualcomm,Snapdragon 7s Gen2,8.0,128.0,media
+195,vivo,Vivo V50 5G,29999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+196,xiaomi,Xiaomi Redmi Note 14 Pro 5G,21999,True,mediatek,Dimensity 7300 Ultra,8.0,128.0,media
+197,oppo,OPPO A6x 5G,16999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+198,apple,Apple iPhone 18 Pro Max,179900,True,samsung,A20 Pro,12.0,256.0,alta
+199,redmagic,RedMagic 11 Pro Plus,69990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+200,infinix,Infinix Note 50X 5G,13499,True,mediatek,Dimensity 7300 Ultimate,6.0,128.0,media
+201,vivo,Vivo X400,79990,True,unknown,Octa Core Processor,12.0,256.0,alta
+202,honor,Honor 600 Lite 5G,30999,True,mediatek,Dimensity 7100,8.0,256.0,media
+203,xiaomi,Xiaomi Redmi 15C 5G,14999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+204,xiaomi,Xiaomi Redmi Note 16,18990,False,mediatek,Dimensity 6300,8.0,128.0,media
+205,infinix,Infinix Hot 50 5G,9999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+206,iqoo,iQOO Z10x,16998,True,mediatek,Dimensity 7300,6.0,128.0,media
+207,xiaomi,Xiaomi 17 Ultra,139999,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+208,samsung,Samsung Galaxy S24 5G (Snapdragon +256GB),55999,True,qualcomm,Snapdragon 8 Gen3,8.0,256.0,media
+209,oppo,Oppo F31 Pro Plus 5G,32999,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+210,poco,Poco C85x,10999,True,unisoc,Unisoc T8300,4.0,64.0,baixa
+211,lava,Lava Yuva Smart,5099,False,unisoc,Unisoc SC9863A,3.0,64.0,baixa
+212,red,Red Magic 11 Pro,60990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+213,oneplus,OnePlus Nord 5 (12GB RAM + 512GB),39999,True,qualcomm,Snapdragon 8s Gen3,12.0,512.0,alta
+214,oppo,Oppo F31 Pro 5G,27999,True,mediatek,Dimensity 7300 Energy,8.0,128.0,media
+215,motorola,Motorola Razr 60 Ultra,79999,True,qualcomm,Snapdragon 8 Elite,16.0,512.0,alta
+216,xiaomi,Xiaomi Redmi Note 14,16499,True,mediatek,Dimensity 7025 Ultra,6.0,128.0,media
+217,realme,Realme P5 5G,19990,True,unknown,Octa Core Processor,6.0,128.0,media
+218,realme,Realme 14 Pro Plus (8GB RAM + 256GB),25999,True,qualcomm,Snapdragon 7s Gen3,8.0,256.0,media
+219,poco,Poco X7 Pro (12GB RAM + 256GB),25999,True,mediatek,Dimensity 8400 Ultra,12.0,256.0,alta
+220,vivo,Vivo Y400 5G,25999,True,qualcomm,Snapdragon 4 Gen2,8.0,128.0,media
+221,google,Google Pixel 10 Pro,109999,True,google,Tensor G5,16.0,256.0,alta
+222,oneplus,OnePlus Nord CE 4 5G (8GB RAM + 256GB),21999,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+223,samsung,Samsung Galaxy F17 5G,14599,True,samsung,Exynos 1330,4.0,128.0,baixa
+224,realme,Realme Narzo 80 Pro 5G,19999,True,mediatek,Dimensity 7400,8.0,128.0,media
+225,poco,Poco M7 5G,12980,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+226,vivo,Vivo X300 FE,69990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+227,vivo,Vivo Y500 5G,17990,True,mediatek,Dimensity 7300,8.0,128.0,media
+228,nothing,Nothing Phone 3a Pro,27999,True,qualcomm,Snapdragon 7s Gen 3,8.0,128.0,media
+229,oppo,Oppo Find X9 Pro 5G,109999,True,mediatek,Dimensity 9500,16.0,512.0,alta
+230,samsung,Samsung Galaxy M15 5G Prime Edition (6GB RAM +128GB),12999,True,mediatek,Dimensity 6100 Plus,6.0,128.0,media
+231,motorola,Motorola Moto G85 5G (12GB RAM + 256GB),19190,True,qualcomm,Snapdragon 6s Gen3,12.0,256.0,alta
+232,ai+,Ai+ Nova 2,10999,True,unisoc,Unisoc T8200,6.0,128.0,media
+233,motorola,Motorola Edge 60 Pro (16GB RAM + 512GB),37999,True,mediatek,Dimensity 8350 Extreme,16.0,512.0,alta
+234,iqoo,iQOO Z10R,22998,True,mediatek,Dimensity 7400,8.0,128.0,media
+235,samsung,Samsung Galaxy S27 Ultra 5G,149990,True,qualcomm,Snapdragon 8 Elite Gen 6 for Galaxy,12.0,256.0,alta
+236,tecno,Tecno Spark 50 5G,16999,True,mediatek,Dimensity 6400,4.0,128.0,baixa
+237,oppo,Oppo Reno 15c,34999,True,qualcomm,Snapdragon 6 Gen1,8.0,256.0,media
+238,iqoo,iQOO 15R (12GB RAM + 256GB),47998,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+239,lava,Lava Bold N1 5G,7499,True,unisoc,Unisoc T765,4.0,64.0,baixa
+240,motorola,Motorola Moto G85 5G,15999,True,qualcomm,Snapdragon 6s Gen3,8.0,128.0,media
+241,samsung,Samsung Galaxy S25 Plus,74499,True,qualcomm,Snapdragon 8Elite,12.0,256.0,alta
+242,realme,Realme 16 Pro Plus 5G,43999,True,qualcomm,Snapdragon 7 Gen4,8.0,128.0,media
+243,realme,Realme GT 7 (12GB RAM + 256GB),38999,True,mediatek,Dimensity 9400e,12.0,256.0,alta
+244,motorola,Motorola Edge 60 Pro (12GB RAM + 256GB),33449,True,mediatek,Dimensity 8350 Extreme,12.0,256.0,alta
+245,vivo,Vivo Y11 5G (4GB RAM + 128GB),16999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+246,samsung,Samsung Galaxy A56 5G,40999,True,samsung,Exynos 1580,8.0,128.0,media
+247,oneplus,OnePlus 15R (12GB RAM + 512GB),55499,True,qualcomm,Snapdragon 8 Gen5,12.0,512.0,alta
+248,tecno,Tecno Pova 7 Pro 5G (8GB RAM + 256GB),19299,True,mediatek,Dimensity 7300 Ultimate,8.0,256.0,media
+249,acer,Acer Super ZX,9990,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+250,lava,Lava Bold 2 5G,13999,True,mediatek,Dimensity 7060,6.0,128.0,media
+251,samsung,Samsung Galaxy Z Tri Fold,219990,True,qualcomm,Snapdragon 8 Elite,16.0,512.0,alta
+252,samsung,Samsung Galaxy M36 5G,16644,True,samsung,Exynos 1380,6.0,128.0,media
+253,tecno,Tecno Camon 50 Pro 5G,34990,True,mediatek,Dimensity 7400,8.0,256.0,media
+254,google,Google Pixel 10 5G,69999,True,google,Tensor G5,12.0,256.0,alta
+255,infinix,Infinix Note 50 Pro Plus 5G,31990,True,mediatek,Dimensity 8350,12.0,256.0,alta
+256,vivo,Vivo V60 Lite 5G,24990,True,mediatek,Dimensity 7360 Turbo,8.0,256.0,media
+257,apple,Apple iPhone 17e,64900,True,apple,Apple A19,8.0,256.0,media
+258,realme,Realme P3x 5G (8GB RAM + 128GB),13999,True,mediatek,Dimensity 6400,8.0,128.0,media
+259,infinix,Infinix GT 30 Pro,27499,True,mediatek,Dimensity 8350 Ultimate,8.0,256.0,media
+260,oneplus,OnePlus 13,62999,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+261,poco,Poco X7 5G,19299,True,mediatek,Dimensity 7300 Ultra,8.0,128.0,media
+262,infinix,Infinix GT 50 Pro,29999,True,unknown,Octa Core Processor,8.0,256.0,media
+263,honor,Honor 600,44999,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+264,ai+,Ai+ Pulse 2,7999,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+265,oppo,OPPO Reno 15 Pro 5G,67999,True,mediatek,Dimensity 8450,12.0,256.0,alta
+266,samsung,Samsung Galaxy F56 5G,23190,True,samsung,Exynos 1480,8.0,128.0,media
+267,infinix,Infinix Note 15 Pro 5G,19990,True,mediatek,Dimensity 6100 Plus,8.0,128.0,media
+268,samsung,Samsung Galaxy A07 5G (6GB RAM + 128GB),15990,True,mediatek,Dimensity 6300,6.0,128.0,media
+269,realme,Realme P4x 5G (8GB RAM + 256GB),20999,True,mediatek,Dimensity 7400 Ultra,8.0,256.0,media
+270,realme,Realme P3 Lite 5G,12999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+271,realme,Realme P4 5G (8GB RAM + 128GB),20999,True,mediatek,Dimensity 7400 Ultra,8.0,128.0,media
+272,oneplus,OnePlus Nord 6 Naruto Edition,39990,True,qualcomm,Snapdragon 8s Gen4,8.0,256.0,media
+273,xiaomi,Xiaomi Redmi 15A 5G (6GB RAM + 128GB),16400,True,unisoc,Unisoc T8300,6.0,128.0,media
+274,oppo,OPPO K13x 5G,15990,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+275,nothing,Nothing Phone (4a) Pro (12GB RAM + 256GB),45999,True,qualcomm,Snapdragon 7 Gen 4,12.0,256.0,alta
+276,realme,Realme Narzo Power 5G (8GB RAM +256GB),26099,True,mediatek,Dimensity 7400 Ultra,8.0,256.0,media
+277,realme,Realme Narzo 90 (8GB RAM +128GB),19999,True,mediatek,Dimensity 6400 Max,8.0,128.0,media
+278,iqoo,iQOO 15 (16GB RAM + 512GB),79998,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+279,samsung,Samsung Galaxy S25 FE (8GB RAM + 256GB),59899,True,samsung,Exynos 2400,8.0,256.0,media
+280,motorola,Motorola Moto G96 5G (8GB RAM + 256GB),20849,True,qualcomm,Snapdragon 7s Gen2,8.0,256.0,media
+281,oppo,Oppo Find X9 5G,74999,True,mediatek,Dimensity 9500,12.0,256.0,alta
+282,iqoo,iQOO Z11x 5G (8GB RAM + 128GB),20999,True,mediatek,Dimensity 7400 Turbo,8.0,128.0,media
+283,oppo,OPPO K15 Pro Plus,49999,True,mediatek,Dimensity 9500s,12.0,256.0,alta
+284,vivo,Vivo V70e,35990,True,unknown,Octa Core Processor,8.0,256.0,media
+285,samsung,Samsung Galaxy S26 Ultra (16GB RAM + 1TB),189999,True,qualcomm,Snapdragon 8 Elite Gen 5 for Galaxy,16.0,1.0,alta
+286,oppo,Oppo K15 Turbo,29990,True,mediatek,Dimensity 8500,8.0,128.0,media
+287,vivo,Vivo V80 5G,47999,True,unknown,Octa Core Processor,8.0,256.0,media
+288,realme,Realme P3 5G (8GB RAM + 256GB),18499,True,qualcomm,Snapdragon 6 Gen4,8.0,256.0,media
+289,xiaomi,Xiaomi Redmi 13 5G,12499,True,qualcomm,Snapdragon 4 Gen 2 AE,6.0,128.0,media
+290,oppo,OPPO Reno 16 Pro 5G,69990,True,unknown,Octa Core Processor,12.0,256.0,alta
+291,honor,Honor Power 2,34990,True,mediatek,Dimensity 8500,12.0,256.0,alta
+292,poco,Poco M7 Plus 5G (4GB RAM + 128GB),13444,True,qualcomm,Snapdragon 6s Gen3,4.0,128.0,baixa
+293,iqoo,iQOO 15R (12GB RAM + 512GB),52998,True,qualcomm,Snapdragon 8 Gen5,12.0,512.0,alta
+294,realme,Realme C83 5G,14499,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+295,bluefox,Bluefox NX1,8699,False,mediatek,Helio G81,4.0,64.0,baixa
+296,iqoo,iQOO Z10 Turbo Pro,23990,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+297,realme,Realme GT 7T,32490,True,mediatek,Dimensity 8400-MAX,8.0,256.0,media
+298,samsung,Samsung Galaxy A26 5G,21990,True,samsung,Exynos 1380,8.0,128.0,media
+299,apple,Apple iPhone Air,94990,True,apple,Apple A19 Pro,8.0,256.0,media
+300,motorola,Motorola Edge 60 5G,26884,True,mediatek,Dimensity 7400,12.0,256.0,alta
+301,motorola,Motorola Moto G64 5G (12GB RAM + 256GB),16889,True,mediatek,Dimensity 7025,12.0,256.0,alta
+302,xiaomi,Xiaomi Redmi 13C 5G (6GB RAM + 128GB),11299,True,mediatek,Dimensity 6100 Plus,6.0,128.0,media
+303,vivo,Vivo V30 Pro 5G,28494,True,mediatek,Dimensity 8200,8.0,256.0,media
+304,apple,Apple iPhone 16 Pro Max,127490,True,apple,Bionic A18 Pro,8.0,256.0,media
+305,google,Google Pixel 8A,37999,True,google,Tensor G3,8.0,128.0,media
+306,honor,Honor X9d,31990,True,qualcomm,Snapdragon 6 Gen4,12.0,256.0,alta
+307,oppo,Oppo A6 Pro 5G,26999,True,mediatek,Dimensity 6300,8.0,128.0,media
+308,oneplus,OnePlus Nord 5 (12GB RAM + 256GB),36999,True,qualcomm,Snapdragon 8s Gen3,12.0,256.0,alta
+309,tecno,Tecno Pova Curve 5G,15999,True,mediatek,Dimensity 7300 Ultimate,6.0,128.0,media
+310,infinix,Infinix Note 50s 5G,18999,True,mediatek,Dimensity 7300 Ultimate,8.0,128.0,media
+311,nothing,Nothing Phone 3a (8GB RAM + 256GB),26999,True,qualcomm,Snapdragon 7s Gen3,8.0,256.0,media
+312,wobble,Wobble One 5G (12GB RAM + 256GB),29999,True,mediatek,Dimensity 7400,12.0,256.0,alta
+313,realme,Realme P4 Pro 5G,28999,True,qualcomm,Snapdragon 7 Gen 4,8.0,128.0,media
+314,infinix,Infinix Hot 60 5G,13999,True,mediatek,Dimensity 7020,6.0,128.0,media
+315,lava,Lava Bold N2 Pro,7999,False,unisoc,Unisoc T7250,4.0,128.0,baixa
+316,oppo,OPPO Reno 14 Pro 5G (12GB RAM + 512GB),49889,True,mediatek,Dimensity 8450,12.0,512.0,alta
+317,xiaomi,Xiaomi 17 5G,89999,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,512.0,alta
+318,iqoo,iQOO Neo 11R,29990,True,unknown,Octa Core Processor,12.0,256.0,alta
+319,poco,Poco M8,17490,True,qualcomm,Snapdragon 6 Gen3,6.0,128.0,media
+320,realme,Realme GT 6,27999,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+321,motorola,Motorola Edge 60 Fusion 5G (8GB RAM + 128GB),21749,True,mediatek,Dimensity 7400,8.0,128.0,media
+322,realme,Realme Narzo 100 Lite,15999,True,mediatek,Dimensity 6400,4.0,128.0,baixa
+323,oppo,Oppo A6 5G,21999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+324,oneplus,OnePlus Nord CE 6 Lite,22999,True,mediatek,Dimensity 6300,6.0,128.0,media
+325,nothing,Nothing Phone 4a (8GB RAM + 256GB),34824,True,qualcomm,Snapdragon 7s Gen4,8.0,256.0,media
+326,vivo,Vivo Y21 5G,18999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+327,vivo,Vivo Y31 Pro 5G,19999,True,mediatek,Dimensity 7300,8.0,128.0,media
+328,vivo,Vivo V60 5G (12GB RAM + 256GB),37834,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+329,realme,Realme 15 Pro 5G (12GB RAM + 256GB),35999,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+330,infinix,Infinix GT 30 5G,18988,True,mediatek,Dimensity 7400,8.0,128.0,media
+331,cmf,CMF Phone 2 Pro 5G (8GB RAM + 256GB),20999,True,mediatek,Dimensity 7300 Pro,8.0,256.0,media
+332,iqoo,iQOO Neo 10R (12GB RAM + 256GB),34999,True,qualcomm,Snapdragon 8s Gen3,12.0,256.0,alta
+333,realme,Realme GT 8 Pro,72999,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+334,tecno,Tecno Pova 7 Pro 5G,17299,True,mediatek,Dimensity 7300 Ultimate,8.0,128.0,media
+335,apple,Apple iPhone 16 Plus,79900,True,apple,Bionic A18,8.0,128.0,media
+336,oneplus,OnePlus 12 5G,46999,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+337,realme,Realme P4 Power 5G (12GB RAM + 256GB),32999,True,mediatek,Dimensity 7400 Ultra,12.0,256.0,alta
+338,oneplus,OnePlus 15s 5G,59999,True,qualcomm,Octa Core Processor,12.0,256.0,alta
+339,xiaomi,Xiaomi Redmi Note 15 5G (256GB),27999,True,qualcomm,Snapdragon 6 Gen3,8.0,256.0,media
+340,realme,Realme 15T 5G,21990,True,mediatek,Dimensity 6400 Max,8.0,128.0,media
+341,samsung,Samsung Galaxy Z Fold 8,199999,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+342,samsung,Samsung Galaxy M56 (8GB RAM + 256GB),24999,True,samsung,Exynos 1480,8.0,256.0,media
+343,tecno,Tecno POP 10 5G,7999,True,mediatek,Dimensity 7025,4.0,128.0,baixa
+344,motorola,Motorola Edge 50 Ultra 5G,37790,True,qualcomm,Snapdragon 8s Gen3,12.0,512.0,alta
+345,poco,Poco X8 Pro Max 5G (12GB RAM + 512GB),46999,True,mediatek,Dimensity 9500s,12.0,512.0,alta
+346,samsung,Samsung Galaxy F70e 5G (6GB RAM + 128GB),15990,True,mediatek,Dimensity 6300,6.0,128.0,media
+347,realme,Realme 17 Pro 5G,33990,True,unknown,Octa Core Processor,8.0,128.0,media
+348,xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 256GB),19499,True,qualcomm,Snapdragon 6s Gen3,8.0,256.0,media
+349,oppo,OPPO K13x 5G (8GB RAM +128GB),17880,True,mediatek,Dimensity 6300,8.0,128.0,media
+350,lava,Lava Storm Play 5G (8GB RAM + 256GB),13499,True,mediatek,Dimensity 7060,8.0,256.0,media
+351,realme,Realme GT 8T,36999,True,unknown,Octa Core Processor,8.0,256.0,media
+352,samsung,Samsung Galaxy M16 5G (8GB RAM + 128GB),15499,True,mediatek,Dimensity 6300,8.0,128.0,media
+353,xiaomi,Xiaomi Redmi 14C 5G (6GB RAM + 128GB),11999,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+354,realme,Realme P3 Pro 5G,20999,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+355,xiaomi,Xiaomi Redmi Note 14 Pro Plus,26999,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+356,apple,Apple iPhone 14,52190,True,apple,Bionic A15,6.0,128.0,media
+357,poco,Poco X8 Pro Iron Man Edition,37999,True,mediatek,Dimensity 8500 Ultra,12.0,256.0,alta
+358,oppo,OPPO Reno 16 5G,47999,True,unknown,Octa Core Processor,8.0,256.0,media
+359,motorola,Motorola Signature (16GB RAM + 1TB),69999,True,qualcomm,Snapdragon 8 Gen5,16.0,1.0,alta
+360,xiaomi,Xiaomi Redmi Turbo 5 Max,39999,True,mediatek,Dimensity 9500s,12.0,256.0,alta
+361,samsung,Samsung Galaxy A08,9990,False,mediatek,Helio G100,4.0,128.0,baixa
+362,motorola,Motorola Moto G35 5G (8GB RAM + 128GB),13590,True,unisoc,Unisoc T760,8.0,128.0,media
+363,tecno,Tecno Pova Slim 5G,20030,True,mediatek,Dimensity 6400,8.0,128.0,media
+364,vivo,Vivo T4 Pro 5G (12GB RAM + 256GB),31990,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+365,vivo,Vivo T4 Lite 5G (6 GB RAM +128 GB),14999,True,mediatek,Dimensity 6300,6.0,128.0,media
+366,realme,Realme 15x 5G,18999,True,mediatek,Dimensity 6300,6.0,128.0,media
+367,realme,Realme 14 Pro Plus 5G,24999,True,qualcomm,Snapdragon 7s Gen3,8.0,128.0,media
+368,oppo,OPPO Reno 13 5G,34999,True,mediatek,Dimensity 8350,8.0,128.0,media
+369,apple,Apple iPhone 15 (256GB),69900,True,apple,Bionic A16,6.0,256.0,media
+370,vivo,Vivo V70 5G (12GB RAM + 512GB),54999,True,qualcomm,Snapdragon 7 Gen4,12.0,512.0,alta
+371,samaung,Samaung Galaxy F70e,13200,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+372,realme,Realme P4x 5G (8GB RAM + 128GB),17869,True,mediatek,Dimensity 7400 Ultra,8.0,128.0,media
+373,tecno,Tecno Camon 50 Ultra,34990,True,mediatek,Dimensity 7400 Ultimate,8.0,256.0,media
+374,motorola,Motorola Moto G06 Power,9999,False,mediatek,Helio G81,4.0,64.0,baixa
+375,vivo,Vivo V70 Lite,20990,True,unknown,Octa Core Processor,8.0,256.0,media
+376,realme,Realme 16T 5G,21990,True,mediatek,Dimensity,8.0,128.0,media
+377,ai+,Ai+ Nova 5G,10999,True,unisoc,Unisoc T8200,6.0,128.0,media
+378,realme,Realme GT 7 (12GB RAM + 512GB),41999,True,mediatek,Dimensity 9400e,12.0,512.0,alta
+379,iqoo,iQOO Neo 10R (8GB RAM + 256GB),33972,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+380,poco,Poco X7 5G (8GB RAM + 256GB),19999,True,mediatek,Dimensity 7300 Ultra,8.0,256.0,media
+381,samsung,Samsung Galaxy A06 5G,10999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+382,samsung,Samsung Galaxy M15 5G Prime Edition (8GB RAM +128GB),13298,True,mediatek,Dimensity 6100 Plus,8.0,128.0,media
+383,google,Google Pixel 10 Pro XL,124999,True,google,Tensor G5,16.0,256.0,alta
+384,google,Google Pixel 7 Pro 5G,36999,True,google,Google  Tensor G2,12.0,128.0,alta
+385,vivo,Vivo Y11 5G,14999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+386,tecno,Tecno Pova Curve 2,26299,True,mediatek,Dimensity 7100,8.0,128.0,media
+387,nothing,Nothing Phone 3a Lite (8GB RAM + 256GB),23790,True,mediatek,Dimensity 7300 Pro,8.0,256.0,media
+388,samsung,Samsung Galaxy M17 5G (6GB RAM + 128GB),15499,True,samsung,Exynos 1330,6.0,128.0,media
+389,nothing,Nothing Phone (4a) Pro (8GB RAM + 256GB),42770,True,qualcomm,Snapdragon 7 Gen 4,8.0,256.0,media
+390,itel,itel Super 26 Ultra,9999,False,unisoc,Unisoc T7300,8.0,128.0,media
+391,samsung,Samsung Galaxy A17 5G (8GB RAM + 128GB),19999,True,samsung,Exynos 1330,8.0,128.0,media
+392,samsung,Samsung Galaxy F36 5G,18900,True,samsung,Exynos 1380,6.0,128.0,media
+393,xiaomi,Xiaomi Redmi A5 4G,7999,False,unisoc,Unisoc T7250,3.0,64.0,baixa
+394,realme,Realme P3 5G (8GB RAM + 128GB),16999,True,qualcomm,Snapdragon 6 Gen4,8.0,128.0,media
+395,vivo,Vivo T4x 5G (8GB RAM + 256GB),20899,True,mediatek,Dimensity 7300,8.0,256.0,media
+396,realme,Realme P1 5G (8GB RAM+ 128GB),14999,True,mediatek,Dimensity 7050,8.0,128.0,media
+397,vivo,Vivo V40 5G,34999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+398,nothing,Nothing Phone 2a (8GB RAM + 256GB),24999,True,mediatek,Dimensity 7200 Pro,8.0,256.0,media
+399,xiaomi,Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),16999,True,mediatek,Dimensity 6080,8.0,256.0,media
+400,motorola,Motorola Moto Edge 50 Neo,20999,True,mediatek,Dimensity 7300,8.0,256.0,media
+401,nothing,Nothing Phone 3 5G,79999,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+402,oneplus,OnePlus Nord CE 4 Lite 5G,19999,True,qualcomm,Snapdragon 695,8.0,128.0,media
+403,samsung,Samsung Galaxy M35 5G,19999,True,samsung,Exynos 1380,6.0,128.0,media
+404,vivo,Vivo V70 Elite 5G (12GB RAM + 512GB),61999,True,qualcomm,Snapdragon 8s Gen3,12.0,512.0,alta
+405,realme,Realme 16 Pro 5G (8GB RAM + 256GB),37999,True,mediatek,Dimensity 7300 Max,8.0,256.0,media
+406,infinix,Infinix Note Edge 5G,22999,True,mediatek,Dimensity 7100,6.0,128.0,media
+407,oneplus,OnePlus 16R 5G,50999,True,qualcomm,Octa Core Processor,12.0,256.0,alta
+408,oppo,Oppo Find X9s,50990,True,mediatek,Dimensity 9500s,12.0,256.0,alta
+409,xiaomi,Xiaomi 17 Pro Max,105990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,512.0,alta
+410,nothing,Nothing Phone 4a (12GB RAM + 256GB),36182,True,qualcomm,Snapdragon 7s Gen4,12.0,256.0,alta
+411,oppo,Oppo K13 Turbo (8GB RAM + 256GB),29999,True,mediatek,Dimensity 8450,8.0,256.0,media
+412,iqoo,iQOO 15 Ultra,99990,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,256.0,alta
+413,iqoo,iQOO Neo 10 (8GB RAM + 256GB),36998,True,qualcomm,Snapdragon 8s Gen4,8.0,256.0,media
+414,realme,Realme C100,15990,True,unknown,Octa Core Processor,8.0,128.0,media
+415,vivo,Vivo X300s,68990,True,mediatek,Dimensity 9500,12.0,256.0,alta
+416,lava,Lava Agni 4 5G,24999,True,mediatek,Dimensity 8350,8.0,256.0,media
+417,vivo,Vivo Y04,8990,False,unisoc,Unisoc T7225,4.0,64.0,baixa
+418,nubia,Nubia Z70 Ultra,53990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+419,iqoo,iQOO Z10 Turbo,21990,True,mediatek,Dimensity 8400,12.0,256.0,alta
+420,infinix,Infinix Hot 50 5G (8 GB RAM + 128 GB),10999,True,mediatek,Dimensity 6300,8.0,128.0,media
+421,vivo,Vivo X200 5G,59990,True,mediatek,Dimensity 9400,12.0,256.0,alta
+422,oppo,OPPO Reno 11,28999,True,mediatek,Dimensity 7050,8.0,128.0,media
+423,vivo,Vivo T2x 5G,11999,True,mediatek,Dimensity 6020,4.0,128.0,baixa
+424,honor,Honor X80i,24990,True,mediatek,Dimensity 6500  Elite,8.0,128.0,media
+425,samsung,Samsung Galaxy A57 (12GB RAM + 256GB),62499,True,samsung,Exynos 1680,12.0,256.0,alta
+426,red,Red Magic 11 Air,46990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+427,realme,Realme GT 8 Pro (16GB RAM + 512GB),78999,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+428,xiaomi,Xiaomi Redmi K90 Pro Max,50990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+429,infinix,Infinix GT 30 Pro 5G (12GB RAM + 256GB),29999,True,mediatek,Dimensity 8350 Ultimate,12.0,256.0,alta
+430,vivo,Vivo T4 5G (8GB RAM + 256GB),26385,True,qualcomm,Snapdragon 7s Gen3,8.0,256.0,media
+431,samsung,Samsung Galaxy S25 Ultra (12GB RAM + 512GB),138997,True,qualcomm,Snapdragon 8 Elite for Galaxy,12.0,512.0,alta
+432,tecno,Tecno Pop 9 5G (8GB RAM + 128GB),10999,True,mediatek,Dimensity 6300,8.0,128.0,media
+433,xiaomi,Xiaomi Redmi 14C 5G (4GB RAM + 128GB),10499,True,qualcomm,Snapdragon 4 Gen2,4.0,128.0,baixa
+434,poco,Poco C85 5G,12945,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+435,poco,Poco M7 Pro 5G (8GB RAM + 256GB),17999,True,mediatek,Dimensity 7025 Ultra,8.0,256.0,media
+436,poco,Poco C75 5G,10957,True,qualcomm,Snapdragon 4s Gen2,4.0,64.0,baixa
+437,apple,Apple iPhone 16 (256GB),79900,True,apple,Bionic A18,8.0,256.0,media
+438,samsung,Samsung Galaxy A55 5G (12GB RAM + 256GB),39999,True,samsung,Exynos 1480,12.0,256.0,alta
+439,google,Google Pixel 8 5G,52999,True,google,Tensor G3,8.0,128.0,media
+440,xiaomi,Xiaomi Redmi 15A 5G (4GB RAM + 128GB),14499,True,unisoc,Unisoc T8300,4.0,128.0,baixa
+441,poco,Poco X8 Pro 5G (12GB RAM + 256GB),35999,True,mediatek,Dimensity 8500 Ultra,12.0,256.0,alta
+442,oppo,OPPO K14x 5G  (6GB RAM + 128GB),17978,True,mediatek,Dimensity 6300,6.0,128.0,media
+443,realme,Realme 17 Pro Plus 5G,42990,True,unknown,Octa Core Processor,8.0,128.0,media
+444,xiaomi,Xiaomi Redmi Note 15 Pro 5G (8GB RAM + 256GB),30999,True,mediatek,Dimensity 7400 Ultra,8.0,256.0,media
+445,xiaomi,Xiaomi Redmi 16C 5G,13999,True,unknown,Octa Core Processor,4.0,128.0,baixa
+446,vivo,Vivo Y51 Pro 5G (256GB),27999,True,mediatek,Dimensity 7360 Turbo,8.0,256.0,media
+447,vivo,Vivo S50 Pro Mini,48990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+448,vivo,Vivo Y31 5G (6GB RAM + 128GB),20999,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+449,infinix,Infinix Hot 60i 5G,11499,True,mediatek,Dimensity 6400,4.0,128.0,baixa
+450,tecno,Tecno Pova 7 5G (8GB RAM + 256GB),15999,True,mediatek,Dimensity 7300 Ultimate,8.0,256.0,media
+451,vivo,Vivo X200 FE (16GB RAM + 512GB),59999,True,mediatek,Dimensity 9300 Plus,16.0,512.0,alta
+452,iqoo,iQOO Z10 Lite 5G (6GB RAM + 128GB),14999,True,mediatek,Dimensity 6300,6.0,128.0,media
+453,acer,Acer Super ZX 5G  (6GB RAM + 128GB),12499,True,mediatek,Dimensity 6300,6.0,128.0,media
+454,oneplus,OnePlus 13T,39990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+455,apple,Apple iPhone 16 Pro (256GB),113490,True,apple,Bionic A18 Pro,8.0,256.0,media
+456,xiaomi,Xiaomi Redmi A4 5G,10999,True,qualcomm,Snapdragon 4s Gen2,4.0,64.0,baixa
+457,samsung,Samsung Galaxy S24 5G,60990,True,samsung,Exynos 2400,8.0,256.0,media
+458,oneplus,OnePlus 11R 5G,35999,True,qualcomm,Snapdragon 8+ Gen1,8.0,128.0,media
+459,xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 512GB),42999,True,qualcomm,Snapdragon 7s Gen4,12.0,512.0,alta
+460,poco,Poco F8 Ultra,64990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+461,apple,Apple iPhone 17 Pro Max (2TB),222990,True,apple,Apple A19 Pro,12.0,2.0,alta
+462,samsung,Samsung Galaxy M07 4G,9499,False,mediatek,Helio G99,4.0,64.0,baixa
+463,samsung,Samsung Galaxy A17 5G (8GB RAM + 256GB),26499,True,samsung,Exynos 1330,8.0,256.0,media
+464,tecno,Tecno Spark 40 Pro Plus,17999,False,mediatek,Helio G200,8.0,128.0,media
+465,realme,Realme Narzo 80 Lite 5G,13218,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+466,iqoo,iQOO Neo 10 (12GB RAM + 256GB),38998,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+467,oneplus,OnePlus 13R (16GB RAM + 512GB),45999,True,qualcomm,Snapdragon 8 Gen3,16.0,512.0,alta
+468,infinix,Infinix Smart 9 HD,6699,False,mediatek,Helio G50,3.0,64.0,baixa
+469,honor,Honor X9c,22999,True,qualcomm,Snapdragon 6 Gen1,8.0,256.0,media
+470,samsung,Samsung Galaxy S24 FE (256GB),45999,True,samsung,Exynos 2400e,8.0,256.0,media
+471,oneplus,OnePlus Nord 4 5G (8GB RAM + 256GB),29999,True,qualcomm,Snapdragon 7+ Gen3,8.0,256.0,media
+472,xiaomi,Xiaomi 14 Civi,32990,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+473,honor,Honor 200,29999,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+474,vivo,Vivo Y03,6990,False,mediatek,Helio G85,4.0,64.0,baixa
+475,oneplus,OnePlus 9R (12GB RAM + 256GB),30996,True,qualcomm,Snapdragon 870,12.0,256.0,alta
+476,realme,Realme Narzo 90x (4GB+128GB),15999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+477,lava,Lava Bold N2,8199,True,unisoc,UNISOC 9863a,4.0,64.0,baixa
+478,realme,Realme 16 Pro 5G (12GB RAM + 256GB),40999,True,mediatek,Dimensity 7300 Max,12.0,256.0,alta
+479,vivo,Vivo Y19s 5G,15499,True,mediatek,Dimensity 6300,6.0,128.0,media
+480,xiaomi,Xiaomi 18 Pro Max,89990,True,qualcomm,Snapdragon 8 Elite Gen 6,12.0,512.0,alta
+481,iqoo,iQOO 16,74990,True,qualcomm,Snapdragon 8 Elite Gen 6,12.0,256.0,alta
+482,vivo,Vivo V60e (8GB RAM + 256GB),33999,True,mediatek,Dimensity 7360 Turbo,8.0,256.0,media
+483,samsung,Samsung Galaxy F17 5G (6GB RAM + 128GB),17848,True,samsung,Exynos 1330,6.0,128.0,media
+484,vivo,Vivo V60 5G (8GB RAM + 256GB),38999,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+485,realme,Realme C71,7999,False,unisoc,Unisoc UMS9230E,4.0,64.0,baixa
+486,oneplus,OnePlus Ace 6,31990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+487,nothing,Nothing Phone 3a Pro (8GB RAM + 256GB),29999,True,qualcomm,Snapdragon 7s Gen 3,8.0,256.0,media
+488,samsung,Samsung Galaxy A36 5G (8GB RAM + 256GB),32990,True,qualcomm,Snapdragon 6 Gen3,8.0,256.0,media
+489,iqoo,iQOO Z9s (8GB RAM + 256GB),20767,True,mediatek,Dimensity 7300,8.0,256.0,media
+490,xiaomi,Xiaomi Redmi 13 5G (8GB RAM + 128GB),13999,True,qualcomm,Snapdragon 4 Gen 2 AE,8.0,128.0,media
+491,cmf,CMF Phone (1),15999,True,mediatek,Dimensity 7300,6.0,128.0,media
+492,vivo,Vivo T3x 5G (6GB RAM + 128GB),16980,True,qualcomm,Snapdragon 6 Gen1,6.0,128.0,media
+493,motorola,Motorola Edge 50 Pro (12GB RAM + 256GB),26990,True,qualcomm,Snapdragon 7 Gen3,12.0,256.0,alta
+494,nothing,Nothing Phone 2a,23999,True,mediatek,Dimensity 7200 Pro,8.0,128.0,media
+495,vivo,Vivo T3 5G,18499,True,mediatek,Dimensity 7200,8.0,128.0,media
+496,google,Google Pixel 9,79999,True,google,Tensor G4,12.0,256.0,alta
+497,motorola,Motorola Edge 30 Pro 5G,34990,True,qualcomm,Snapdragon 8 Gen1,8.0,128.0,media
+498,ai+,Ai+ Pulse 2 (6GB RAM + 128GB),8999,False,unisoc,Unisoc T7250,6.0,128.0,media
+499,realme,Realme P4 Lite 5G (6GB RAM + 128GB),16499,True,mediatek,Dimensity 6300,6.0,128.0,media
+500,samsung,Samsung Galaxy M47 5G,22990,True,samsung,Octa Core Processor,8.0,128.0,media
+501,motorola,Motorola Signature (16GB RAM + 512GB),62489,True,qualcomm,Snapdragon 8 Gen5,16.0,512.0,alta
+502,oppo,Oppo Reno 15 Pro Mini (12GB RAM + 512GB),64999,True,mediatek,Dimensity 8450,12.0,512.0,alta
+503,oppo,OPPO A6x 5G (6GB RAM + 128GB),17999,True,mediatek,Dimensity 6300,6.0,128.0,media
+504,honor,Honor 500 Pro,49990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+505,itel,itel A100C,9999,False,unisoc,Unisoc T7100,2.0,64.0,baixa
+506,lava,Lava Play Ultra 5G,15778,True,mediatek,Dimensity 7300,6.0,128.0,media
+507,oppo,Oppo K13 Turbo Pro,34999,True,qualcomm,Snapdragon 8s Gen4,8.0,256.0,media
+508,poco,Poco C85x 5G (4GB RAM + 128GB),11999,True,unisoc,Unisoc T8300,4.0,128.0,baixa
+509,tecno,Tecno Spark Go 2,7499,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+510,vivo,Vivo T4 Ultra (12GB RAM+ 512GB),39999,True,mediatek,Dimensity 9300 Plus,12.0,512.0,alta
+511,oppo,Oppo A5x 5G,12499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+512,samsung,Samsung Galaxy M06 (4GB RAM + 64GB),11499,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+513,vivo,Vivo Y29s 5G,15990,True,mediatek,Dimensity 6300,8.0,256.0,media
+514,iqoo,iQOO 13 (16GB RAM + 512GB),66900,True,qualcomm,Snapdragon 8 Elite,16.0,512.0,alta
+515,vivo,Vivo Y19e,9999,False,unisoc,Unisoc T7225,4.0,64.0,baixa
+516,tecno,Tecno Pop 9 5G,9490,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+517,tecno,Tecno Pova 6 Neo 5G (8GB RAM + 256GB),13999,True,mediatek,Dimensity 6300,8.0,256.0,media
+518,peace,Peace Honor 10 (4GB RAM + 64GB),5900,False,mediatek,Helio,4.0,64.0,baixa
+519,infinix,Infinix Note 40 Pro Plus Racing Edition,24999,True,mediatek,Dimensity 7020,12.0,256.0,alta
+520,infinix,Infinix Note 40X 5G,14999,True,mediatek,Dimensity 6300,8.0,256.0,media
+521,samsung,Samsung Galaxy A35 5G (8GB RAM + 256GB),36999,True,samsung,Exynos 1380,8.0,256.0,media
+522,samsung,Samsung Galaxy F16 5G,12499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+523,xiaomi,Xiaomi 15,76999,True,qualcomm,Snapdragon 8 Elite,12.0,512.0,alta
+524,samsung,Samsung Galaxy S24 Plus,59999,True,samsung,Exynos 2400,12.0,256.0,alta
+525,google,Google Pixel 6A,21999,True,google,Google  Tensor,6.0,128.0,media
+526,samsung,Samsung Galaxy S26 (12GB RAM + 512GB),89999,True,samsung,Exynos 2600,12.0,512.0,alta
+527,sony,Sony Xperia 1 VIII,149990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+528,oppo,OPPO F33 Pro 5G,30999,True,mediatek,Dimensity 6360 Max,8.0,128.0,media
+529,vivo,Vivo T6x 5G,20999,True,unknown,Octa Core Processor,6.0,128.0,media
+530,oppo,OPPO Reno 15 5G (12GB RAM + 256GB),46999,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+531,honor,Honor Win,49990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+532,samsung,Samsung Galaxy A77 5G,44999,True,samsung,Exynos 2400,8.0,128.0,media
+533,realme,Realme P3 Lite 5G (6GB RAM+ 128GB),13999,True,mediatek,Dimensity 6300,6.0,128.0,media
+534,realme,Realme 15 Pro 5G (8GB RAM + 256GB),32999,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+535,tecno,Tecno Pova 7 Ultra,22990,True,mediatek,Dimensity 8350,8.0,256.0,media
+536,infinix,Infinix Smart 10 HD,4999,False,,12nm,2.0,64.0,baixa
+537,samsung,Samsung Galaxy F57 5G,29990,True,samsung,Octa Core Processor,8.0,128.0,media
+538,realme,Realme Narzo 90x,16499,True,mediatek,Dimensity 6300,6.0,128.0,media
+539,vivo,Vivo T4 5G (12GB RAM + 256GB),27898,True,qualcomm,Snapdragon 7s Gen3,12.0,256.0,alta
+540,poco,POCO C71 (6GB RAM + 128GB),9990,False,unisoc,Unisoc T7250,6.0,128.0,media
+541,infinix,Infinix Note 50X 5G (8GB RAM + 128 GB),14999,True,mediatek,Dimensity 7300 Ultimate,8.0,128.0,media
+542,vivo,Vivo T4x 5G (8GB RAM + 128GB),18249,True,mediatek,Dimensity 7300,8.0,128.0,media
+543,xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 256GB),18499,True,mediatek,Dimensity 7025 Ultra,8.0,256.0,media
+544,philips,Philips S7710 Omni 10,11990,False,mediatek,Helio G91,8.0,256.0,media
+545,oneplus,OnePlus 13 (24GB RAM+ 1TB),80999,True,qualcomm,Snapdragon 8 Elite,24.0,1.0,alta
+546,realme,Realme P2 Pro (12GB RAM + 512GB),23999,True,qualcomm,Snapdragon 7s Gen 2,12.0,512.0,alta
+547,realme,Realme 15 5G,29999,True,mediatek,Dimensity 7300 Plus,8.0,128.0,media
+548,samsung,Samsung Galaxy M55s,18998,True,qualcomm,Snapdragon 7 Gen1,8.0,128.0,media
+549,vivo,Vivo X200 Pro 5G,82900,True,mediatek,Dimensity 9400,16.0,512.0,alta
+550,motorola,Motorola Edge 50 Fusion (12GB RAM + 256GB),22790,True,qualcomm,Snapdragon 7s Gen2,12.0,256.0,alta
+551,realme,Realme Narzo 80x 5G,13999,True,mediatek,Dimensity 6400,6.0,128.0,media
+552,samsung,Samsung Galaxy A55 5G (8GB RAM + 256GB),36999,True,samsung,Exynos 1480,8.0,256.0,media
+553,realme,Realme 13 Pro Plus 5G,25999,True,qualcomm,Snapdragon 7s Gen2,8.0,256.0,media
+554,samsung,Samsung Galaxy F55 5G,26899,True,qualcomm,Snapdragon 7 Gen1,8.0,128.0,media
+555,samsung,Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),44994,True,samsung,Exynos 2200,8.0,256.0,media
+556,xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),12239,True,qualcomm,Snapdragon 4 Gen 1,6.0,128.0,media
+557,vivo,Vivo T3 Pro 5G,22999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+558,oneplus,OnePlus 11 5G,33399,True,qualcomm,Snapdragon 8 Gen2,8.0,128.0,media
+559,samsung,Samsung Galaxy S23 Ultra 5G,149999,True,qualcomm,Snapdragon 8 Gen 2,12.0,256.0,alta
+560,oneplus,OnePlus 8 Pro (12GB RAM + 256GB),39999,True,qualcomm,Snapdragon 865,12.0,256.0,alta
+561,realme,Realme P4 Lite 5G (4GB RAM + 128GB),14499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+562,realme,Realme Narzo 100,18990,True,unknown,Octa Core Processor,8.0,128.0,media
+563,ai+,Ai+ Nova Flip,39999,True,mediatek,Dimensity 7300X,8.0,256.0,media
+564,tecno,Tecno Spark 50 5G (6GB RAM + 128GB),18999,True,mediatek,Dimensity 6400,6.0,128.0,media
+565,lava,Lava Agni 5,27999,True,unknown,Octa Core Processor,8.0,256.0,media
+566,realme,Realme C85 5G,16499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+567,google,Google Pixel 11 Pro,111999,True,google,Tensor G6,16.0,256.0,alta
+568,honor,Honor X7d 5G,14999,True,qualcomm,Snapdragon 6s Gen3,6.0,128.0,media
+569,oppo,Oppo A5x 5G (4GB RAM + 64GB),11499,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+570,vivo,Vivo Y500 Pro 5G,29990,True,mediatek,Dimensity 7400,8.0,128.0,media
+571,vivo,Vivo T4R 5G (8GB RAM + 256GB),24728,True,mediatek,Dimensity 7400,8.0,256.0,media
+572,iqoo,iQOO Z10 Turbo Plus,25999,True,mediatek,Dimensity 9400 Plus,12.0,256.0,alta
+573,oneplus,OnePlus Ace 6 Ultra,39990,True,mediatek,Dimensity 9500,12.0,256.0,alta
+574,infinix,Infinix Hot 60 Pro Plus,19990,False,mediatek,Helio G200,8.0,128.0,media
+575,poco,Poco F7 5G (12GB RAM + 512GB),37999,True,qualcomm,Snapdragon 8s Gen4,12.0,512.0,alta
+576,vivo,Vivo Y19 5G,12999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+577,lava,Lava Bold 5G (8GB RAM + 128GB),16490,True,mediatek,Dimensity 6300,8.0,128.0,media
+578,samsung,Samsung Galaxy A14 4G (6GB RAM + 128 GB),9699,False,samsung,Exynos 850,6.0,128.0,media
+579,realme,Realme 14x 5G,14999,True,mediatek,Dimensity 6300,6.0,128.0,media
+580,vivo,Vivo Y29 5G,13999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+581,huawei,Huawei Mate 80 Pro,75990,True,hisilicon,Kirin 9030,12.0,256.0,alta
+582,samsung,Samsung Galaxy Z Fold 7,174999,True,qualcomm,Snapdragon 8 Elite for Galaxy,12.0,256.0,alta
+583,oneplus,OnePlus 12R (16GB RAM + 256GB),36449,True,qualcomm,Snapdragon 8 Gen2,16.0,256.0,alta
+584,realme,Realme C65 5G,10499,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+585,samsung,Samsung Galaxy Z Flip 4 (8GB RAM + 256GB),38350,True,qualcomm,Snapdragon  8+ Gen1,8.0,256.0,media
+586,samsung,Samsung Galaxy S23 5G,72999,True,qualcomm,Snapdragon 8 Gen 2,8.0,128.0,media
+587,google,Google Pixel 7A,30999,True,google,Tensor G2,8.0,128.0,media
+588,poco,Poco X6 Pro 5G,26999,True,mediatek,Dimensity 8300 Ultra,8.0,256.0,media
+589,xiaomi,Xiaomi Redmi Note 13 Pro 5G,28990,True,qualcomm,Snapdragon 7s Gen 2,8.0,128.0,media
+590,oppo,OPPO K14x 5G (4GB RAM + 64GB),14449,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+591,oppo,Oppo A6s 5G,20999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+592,motorola,Motorola Razr Fold,139999,True,qualcomm,Snapdragon 8 Gen 5,12.0,256.0,alta
+593,realme,Realme GT 8 Pro Dream Edition,79999,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+594,oppo,Oppo F31 5G (8GB RAM + 256GB),28999,True,mediatek,Dimensity 6300,8.0,256.0,media
+595,apple,Apple iPhone 17 (512GB),102900,True,apple,Apple A19,8.0,512.0,media
+596,xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 128GB),17999,True,qualcomm,Snapdragon 6s Gen3,8.0,128.0,media
+597,samsung,Samsung Galaxy A07 4G,9200,False,mediatek,Helio G99,4.0,64.0,baixa
+598,lava,Lava Blaze AMOLED 2,14349,True,mediatek,Dimensity 7060,6.0,128.0,media
+599,vivo,Vivo Y400 Pro 5G (8GB RAM + 256GB),27999,True,mediatek,Dimensity 7300,8.0,256.0,media
+600,infinix,Infinix Smart 10,8499,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+601,acer,Acer Super ZX 5G  (8GB RAM + 128GB),15990,True,mediatek,Dimensity 6300,8.0,128.0,media
+602,vivo,Vivo Y19 5G (6GB RAM + 128GB),12999,True,mediatek,Dimensity 6300,6.0,128.0,media
+603,samsung,Samsung Galaxy F06 5G (4GB RAM + 64GB),11839,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+604,realme,Realme P3 Ultra (8GB RAM + 256GB),28999,True,mediatek,Dimensity 8350 Ultra,8.0,256.0,media
+605,itel,itel Power 70,7299,False,mediatek,Helio G50,4.0,128.0,baixa
+606,iqoo,iQOO Z10x 5G (8GB RAM + 256GB),20498,True,mediatek,Dimensity 7300,8.0,256.0,media
+607,vivo,Vivo V50e 5G,26999,True,mediatek,Dimensity 7300,8.0,128.0,media
+608,sony,Sony Xperia 1 VII,140990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+609,oppo,Oppo F29 Pro 5G,29990,True,mediatek,Dimensity 7300,8.0,128.0,media
+610,realme,Realme GT 7 Pro 5G,48999,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+611,vertu,Vertu Metavertu 2,425999,True,qualcomm,Snapdragon 8 Gen2,12.0,512.0,alta
+612,google,Google Pixel 8A (8GB RAM + 256GB),36990,True,google,Tensor G3,8.0,256.0,media
+613,huawei,Huawei Pura 80 Ultra,118990,True,hisilicon,Kirin 9020,16.0,512.0,alta
+614,vivo,Vivo T3x 5G (8GB RAM + 128GB),15499,True,qualcomm,Snapdragon 6 Gen1,8.0,128.0,media
+615,motorola,Motorola Moto G56 5G,15990,True,mediatek,Dimensity 7060,8.0,256.0,media
+616,vivo,Vivo V40 Pro,41999,True,mediatek,Dimensity 9200 Plus,8.0,256.0,media
+617,samsung,Samsung Galaxy F15 5G (6GB RAM + 128GB),14999,True,mediatek,Dimensity 6100 Plus,6.0,128.0,media
+618,oppo,OPPO Reno 12 Pro 5G,40999,True,mediatek,Dimensity 7300 Energy,12.0,256.0,alta
+619,xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),14499,True,qualcomm,Snapdragon 4 Gen2,8.0,256.0,media
+620,samsung,Samsung Galaxy S21 FE (Snapdragon),38999,True,qualcomm,Snapdragon 888,8.0,256.0,media
+621,motorola,Motorola Edge 50 5G,22990,True,qualcomm,Snapdragon 7 Gen1 AE,8.0,256.0,media
+622,xiaomi,Xiaomi Redmi A7 Pro 5G,15999,False,unknown,Octa Core Processor,4.0,64.0,baixa
+623,nubia,Nubia Neo 5 GT,21999,True,mediatek,Dimensity 7400,12.0,256.0,alta
+624,realme,Realme Narzo Power 5G,24565,True,mediatek,Dimensity 7400 Ultra,8.0,128.0,media
+625,xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 256GB),38999,True,qualcomm,Snapdragon 7s Gen4,12.0,256.0,alta
+626,realme,Realme 16 Pro Plus 5G (12GB+256GB),48999,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+627,oppo,Oppo Reno 15F,39999,True,qualcomm,Snapdragon 6 Gen1,8.0,128.0,media
+628,vivo,Vivo X300 (16GB RAM + 512GB),85999,True,mediatek,Dimensity 9500,16.0,512.0,alta
+629,oppo,OPPO K14 5G (8GB RAM + 256GB),23999,True,mediatek,Dimensity 6300,8.0,256.0,media
+630,poco,Poco F8 Pro,44990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+631,xiaomi,Xiaomi Redmi 16,15990,True,qualcomm,Snapdragon 6s Gen4,6.0,128.0,media
+632,oppo,OPPO Reno 15 Pro Max,59990,True,mediatek,Dimensity 8450,12.0,256.0,alta
+633,huawei,Huawei Enjoy 90 Pro Max,23990,True,hisilicon,Octa Core Processor,8.0,128.0,media
+634,hmd,HMD Fuse,8990,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+635,wobble,Wobble One 5G (8GB RAM + 256GB),27999,True,mediatek,Dimensity 7400,8.0,256.0,media
+636,tecno,Tecno Spark 40,10999,False,mediatek,Helio G81,4.0,128.0,baixa
+637,vivo,Vivo S30 Pro Mini,40990,True,mediatek,Dimensity 9300 Plus,12.0,256.0,alta
+638,iqoo,iQOO Z10 5G (8GB RAM + 256GB),26998,True,qualcomm,Snapdragon 7s Gen3,8.0,256.0,media
+639,realme,Realme Narzo 80 Pro 5G (8GB RAM + 256GB),21999,True,mediatek,Dimensity 7400,8.0,256.0,media
+640,realme,Realme C73,11999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+641,samsung,Samsung Galaxy A56 5G (8GB RAM + 256GB),43999,True,samsung,Exynos 1580,8.0,256.0,media
+642,samsung,Samsung Galaxy A06 5G (4GB RAM + 128GB),11790,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+643,honor,Honor 400 Lite,34990,True,mediatek,Dimensity 7025 Ultra,8.0,256.0,media
+644,poco,Poco F8,37990,True,qualcomm,Snapdragon 8s Elite,12.0,256.0,alta
+645,xiaomi,Xiaomi Redmi A5 5G,9990,True,qualcomm,Snapdragon 4 Gen3,4.0,128.0,baixa
+646,xiaomi,Xiaomi Redmi Turbo 4,23990,True,mediatek,Dimensity 8400 Ultra,12.0,256.0,alta
+647,vivo,Vivo X200 Ultra,76990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+648,realme,Realme P2 Pro 5G,17999,True,qualcomm,Snapdragon 7s Gen 2,8.0,128.0,media
+649,realme,Realme P1 Pro 5G (8GB RAM + 256GB),16999,True,qualcomm,Snapdragon 6 Gen1,8.0,256.0,media
+650,oneplus,OnePlus 12R (8GB RAM + 256GB),35499,True,qualcomm,Snapdragon 8 Gen2,8.0,256.0,media
+651,infinix,Infinix Note 50,14990,False,mediatek,Helio G100,8.0,256.0,media
+652,nokia,Nokia X200,24999,True,qualcomm,Snapdragon 6 Gen 4,8.0,256.0,media
+653,samsung,Samsung Galaxy A76,42990,True,qualcomm,Snapdragon 7+ Gen2,8.0,128.0,media
+654,honor,Honor 90 5G,25999,True,qualcomm,Snapdragon 7 Gen 1 Accelerated Edition,8.0,256.0,media
+655,apple,Apple iPhone 15 Pro,134900,True,apple,Bionic A17 Pro,8.0,128.0,media
+656,realme,Realme C83 5G (4GB RAM + 128GB),16499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+657,oppo,Oppo A6s Pro,28990,False,mediatek,Helio G100 Max,8.0,256.0,media
+658,samsung,Samsung Galaxy A37 5G (8GB RAM + 256 GB),44499,True,samsung,Exynos 1480,8.0,256.0,media
+659,ai+,Ai+ Nova 2 Pro,12999,True,unknown,Octa Core Processor,6.0,128.0,media
+660,tecno,Tecno Pova Curve 2 5G (8GB RAM +256GB),31999,True,mediatek,Dimensity 7100,8.0,256.0,media
+661,poco,Poco M8 5G (8GB RAM + 256GB),20699,True,qualcomm,Snapdragon 6 Gen3,8.0,256.0,media
+662,xiaomi,Xiaomi Redmi 15C 5G (6GB RAM + 128GB),15999,True,mediatek,Dimensity 6300,6.0,128.0,media
+663,vivo,Vivo V60e (12GB RAM + 256GB),35999,True,mediatek,Dimensity 7360 Turbo,12.0,256.0,alta
+664,tecno,Tecno Pova Curve 5G (8GB RAM + 256GB),19999,True,mediatek,Dimensity 7300 Ultimate,8.0,256.0,media
+665,vivo,Vivo Y31 Pro 5G (8GB RAM + 256GB),21999,True,mediatek,Dimensity 7300,8.0,256.0,media
+666,apple,Apple iPhone 17 Pro Max (512GB),169900,True,apple,Apple A19 Pro,12.0,512.0,alta
+667,apple,Apple iPhone 17 Pro Max (1TB),189900,True,apple,Apple A19 Pro,12.0,1.0,alta
+668,realme,Realme P5 Pro 5G,34999,True,unknown,Octa Core Processor,8.0,256.0,media
+669,oppo,Oppo K13 Turbo Pro (12GB+256GB),36999,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+670,nothing,Nothing Phone 3 (16GB RAM + 512GB),65988,True,qualcomm,Snapdragon 8s Gen4,16.0,512.0,alta
+671,samsung,Samsung Galaxy M36 5G (8GB RAM + 256GB),24499,True,samsung,Exynos 1380,8.0,256.0,media
+672,vivo,Vivo T4 Lite 5G (8GB RAM +256GB),16999,True,mediatek,Dimensity 6300,8.0,128.0,media
+673,iqoo,iQOO Neo 10 (16GB RAM + 512GB),43998,True,qualcomm,Snapdragon 8s Gen4,16.0,512.0,alta
+674,asus,Asus ROG Phone 10 Pro,112990,True,qualcomm,Snapdragon 8 Elite Gen 5,16.0,512.0,alta
+675,iqoo,iQOO Z10 5G (12GB RAM + 256GB),27999,True,qualcomm,Snapdragon 7s Gen3,12.0,256.0,alta
+676,samsung,Samsung Galaxy S25 Ultra (12GB RAM + 1TB),165999,True,qualcomm,Snapdragon 8 Elite for Galaxy,12.0,1.0,alta
+677,xiaomi,Xiaomi Redmi Note 14 Pro Plus (12GB RAM + 512GB),31999,True,qualcomm,Snapdragon 7s Gen3,12.0,512.0,alta
+678,google,Google Pixel 11,79990,True,google,Google Tensor 6,8.0,256.0,media
+679,vivo,Vivo Y39 5G,17990,True,qualcomm,Snapdragon 4 Gen2,8.0,128.0,media
+680,infinix,Infinix Note 40X 5G (12GB RAM +256GB),15999,True,mediatek,Dimensity 6300,12.0,256.0,alta
+681,oppo,Oppo F27 Pro Plus 5G (8GB RAM +128GB),25999,True,mediatek,Dimensity 7050,8.0,128.0,media
+682,vivo,Vivo T3 Lite 5G,12890,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+683,tecno,Tecno Pova 8 Pro 5G,22999,True,mediatek,Dimensity 7400 Ultimate,8.0,128.0,media
+684,oppo,OPPO Reno 12 5G,43999,True,mediatek,Dimensity 7300,8.0,256.0,media
+685,realme,Realme 12X,11999,True,mediatek,Dimensity 6100 Plus,4.0,128.0,baixa
+686,xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),9999,False,mediatek,Helio G88,6.0,128.0,media
+687,vivo,Vivo T2x 5G (6GB RAM + 128GB),12999,True,mediatek,Dimensity 6020,6.0,128.0,media
+688,google,Google Pixel 9 Pro,109999,True,google,Tensor G4,16.0,256.0,alta
+689,iqoo,iQOO 12 5G,54999,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+690,vivo,Vivo Y21 5G (8GB RAM + 128GB),22999,True,mediatek,Dimensity 6300,8.0,128.0,media
+691,realme,Realme GT 9 Pro,79990,True,qualcomm,Snapdragon 8 Elite Gen 6,12.0,256.0,alta
+692,tecno,Tecno Pova 8 5G,17990,True,mediatek,Dimensity 7100,8.0,128.0,media
+693,oppo,Oppo Find X10 Pro 5G,119990,True,mediatek,Dimensity 9600,16.0,512.0,alta
+694,vivo,Vivo X200T (12 GB RAM + 512 GB),69999,True,mediatek,Dimensity 9400 Plus,12.0,512.0,alta
+695,vivo,Vivo T4 Lite 5G (4GB RAM + 64GB),12999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+696,oppo,Oppo Reno 15c 5G (12GB RAM + 256GB),40999,True,qualcomm,Snapdragon 6 Gen1,12.0,256.0,alta
+697,realme,Realme Narzo 90x (8GB+128GB),16499,True,mediatek,Dimensity 6300,8.0,128.0,media
+698,iqoo,iQOO Z11 Turbo Pro,349990,True,qualcomm,SM8735 Snapdragon 8s Gen,12.0,256.0,alta
+699,oppo,OPPO A6x 5G (4GB RAM + 128GB),16999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+700,huawei,Huawei Mate 80 RS Ultimate,159990,True,hisilicon,Kirin 9030,20.0,512.0,alta
+701,wobble,Wobble One,26999,True,mediatek,Dimensity 7400,8.0,128.0,media
+702,samsung,Samsung Galaxy M17 5G (8GB RAM + 128GB),17499,True,samsung,Exynos 1330,8.0,128.0,media
+703,samsung,Samsung Galaxy M18 5G,19990,True,samsung,Octa Core Processor,8.0,128.0,media
+704,lava,Lava Bold N1 5G (4GB RAM + 128GB),9499,True,unisoc,Unisoc T765,4.0,128.0,baixa
+705,oppo,Oppo F31 Pro Plus 5G (12GB RAM + 256GB),34999,True,qualcomm,Snapdragon 7 Gen3,12.0,256.0,alta
+706,samsung,Samsung Galaxy F36 5G (8GB RAM + 256GB),24499,True,samsung,Exynos 1380,8.0,256.0,media
+707,nubia,Nubia Z80 Ultra,61990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,512.0,alta
+708,iqoo,iQOO Z10R (8GB RAM + 256GB),24998,True,mediatek,Dimensity 7400,8.0,256.0,media
+709,infinix,Infinix Note 50s 5G (6GB RAM + 128GB),17999,True,mediatek,Dimensity 7300 Ultimate,6.0,128.0,media
+710,infinix,Infinix Hot 60 Pro,13990,False,mediatek,Helio G200,8.0,128.0,media
+711,lava,Lava Storm Lite 5G,9999,True,mediatek,Dimensity 6400,4.0,64.0,baixa
+712,iqoo,iQOO Z10 Lite,13999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+713,vivo,Vivo Y19 5G (4GB RAM + 128GB),11499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+714,xiaomi,Xiaomi Redmi A5 4G (4GB RAM + 128GB),8999,False,unisoc,Unisoc T7250,4.0,128.0,baixa
+715,samsung,Samsung Galaxy A26 (8GB RAM + 256GB),26470,True,samsung,Exynos 1380,8.0,256.0,media
+716,samsung,Samsung Galaxy M16 5G (6GB RAM + 128GB),15999,True,mediatek,Dimensity 6300,6.0,128.0,media
+717,vivo,Vivo V50 5G (8GB RAM + 256GB),33999,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+718,oppo,Oppo A5 (2025),16499,True,mediatek,Dimensity 6300,6.0,128.0,media
+719,motorola,Motorola Moto G65 5G,16990,True,mediatek,Dimensity 7300,8.0,128.0,media
+720,oneplus,OnePlus 13 (16GB RAM+ 512GB),69999,True,qualcomm,Snapdragon 8 Elite,16.0,512.0,alta
+721,honor,Honor Magic 8 Pro,97990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,512.0,alta
+722,apple,Apple iPhone 16e,59900,True,apple,Bionic A18,8.0,128.0,media
+723,motorola,Motorola Moto G87,20990,True,qualcomm,Snapdragon 7 Gen2,8.0,256.0,media
+724,vivo,Vivo Y19s,8990,False,unisoc,Unisoc T612,6.0,128.0,media
+725,realme,Realme C63 5G (8GB RAM + 128GB),12999,True,mediatek,Dimensity 6300,8.0,128.0,media
+726,realme,Realme C63 5G,10999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+727,vivo,Vivo V40e 5G,28999,True,mediatek,Dimensity 7300,8.0,128.0,media
+728,vivo,Vivo Y300 5G,20999,True,qualcomm,Snapdragon 4 Gen2,8.0,128.0,media
+729,hmd,HMD Fusion,10999,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+730,realme,Realme C61,7249,False,unisoc,Unisoc T612,4.0,64.0,baixa
+731,vertu,Vertu Ironflip,489990,True,qualcomm,Snapdragon 8 Gen2,12.0,256.0,alta
+732,oneplus,OnePlus Nord CE 5 Lite 5G,22990,True,qualcomm,Snapdragon 7 Gen2,8.0,256.0,media
+733,poco,Poco X6 Neo (12GB RAM + 256GB),17999,True,mediatek,Dimensity 6080,12.0,256.0,alta
+734,infinix,Infinix Note 40 Pro 5G,21999,True,mediatek,Dimensity 7020,8.0,256.0,media
+735,samsung,Samsung Galaxy S24 Ultra (12GB RAM + 512GB),129999,True,qualcomm,Snapdragon 8 Gen3,12.0,512.0,alta
+736,samsung,Samsung Galaxy M05,9999,False,mediatek,Helio G85,4.0,64.0,baixa
+737,samsung,Samsung Galaxy M06 5G,11999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+738,nubia,Nubia Red Magic 10 Pro 5G,59990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+739,vivo,Vivo T2 Pro 5G (8GB RAM + 256GB),23999,True,mediatek,Dimensity 7200,8.0,256.0,media
+740,realme,Realme GT Neo 6 SE,19990,True,qualcomm,Snapdragon 7+ Gen3,8.0,256.0,media
+741,nothing,Nothing Phone 4,80999,True,unknown,Octa Core Processor,12.0,256.0,alta
+742,poco,Poco F6 5G,29999,True,qualcomm,Snapdragon 8s Gen3,8.0,256.0,media
+743,samsung,Samsung Galaxy A16 5G,20199,True,mediatek,Dimensity 6300,8.0,128.0,media
+744,vivo,Vivo V30 5G,29999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+745,google,Google Pixel 7 5G,29999,True,google,Google Tensor G2,8.0,128.0,media
+746,apple,Apple iPhone 9,29990,False,apple,A13 Bionic,3.0,64.0,baixa
+747,oppo,Oppo A6X 4G,12999,False,qualcomm,Snapdragon 685,4.0,64.0,baixa
+748,oppo,Oppo A6 5G (6GB RAM + 256GB),25999,True,mediatek,Dimensity 6300,6.0,256.0,media
+749,oppo,Oppo A6 5G (6GB RAM + 128GB),21999,True,mediatek,Dimensity 6300,6.0,128.0,media
+750,oppo,OPPO Reno 15 Pro 5G (12GB RAM + 512GB),72999,True,mediatek,Dimensity 8450,12.0,512.0,alta
+751,iqoo,iQOO Z10 Lite 5G (4GB RAM + 64GB),12999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+752,oppo,Oppo A6 Pro 5G (8GB+256GB),26999,True,mediatek,Dimensity 6300,8.0,256.0,media
+753,poco,POCO C85 5G (6GB RAM + 128GB),14470,True,mediatek,Dimensity 6300,6.0,128.0,media
+754,vivo,Vivo X300 (12GB RAM + 512GB),81999,True,mediatek,Dimensity 9500,12.0,512.0,alta
+755,realme,Realme 15 Lite 5G,17499,True,mediatek,Dimensity 7300 Energy,8.0,128.0,media
+756,samsung,Samsung Galaxy F07,8998,False,mediatek,Helio G99,4.0,64.0,baixa
+757,xiaomi,Xiaomi 17 Pro,82990,True,qualcomm,Snapdragon 8 Elite Gen 5,12.0,256.0,alta
+758,realme,Realme P4 Pro 5G (8GB RAM + 256GB),30999,True,qualcomm,Snapdragon 7 Gen 4,8.0,256.0,media
+759,poco,Poco M7 Plus 5G (8GB RAM + 128GB),16799,True,qualcomm,Snapdragon 6s Gen3,8.0,128.0,media
+760,vivo,Vivo V60 5G (16GB RAM + 512GB),45999,True,qualcomm,Snapdragon 7 Gen4,16.0,512.0,alta
+761,iqoo,iQOO Z10R (12GB RAM + 256GB),26998,True,mediatek,Dimensity 7400,12.0,256.0,alta
+762,tecno,Tecno Spark 40 Pro,15999,False,mediatek,Helio G100,8.0,128.0,media
+763,oppo,OPPO Reno 14 5G (12GB RAM + 256GB),44999,True,mediatek,Dimensity 8350,12.0,256.0,alta
+764,vivo,Vivo T4 Ultra (12GB RAM+ 256GB),37999,True,mediatek,Dimensity 9300 Plus,12.0,256.0,alta
+765,oneplus,OnePlus 13s (12GB RAM + 512GB),57999,True,qualcomm,Snapdragon 8 Elite,12.0,512.0,alta
+766,realme,Realme GT 7 Dream Edition,49999,True,mediatek,Dimensity 9400e,16.0,512.0,alta
+767,realme,Realme Neo 7 Turbo,23990,True,mediatek,Dimensity 9400e,12.0,256.0,alta
+768,infinix,Infinix Note 50s 5G (8GB RAM + 256GB),24999,True,mediatek,Dimensity 7300 Ultimate,8.0,256.0,media
+769,realme,Realme Narzo 90 Pro 5G,21990,True,unknown,Octa Core Processor,8.0,128.0,media
+770,nubia,Nubia Red Magic 10 Air,40999,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+771,poco,POCO C71,8963,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+772,samsung,Samsung Galaxy F16 5G (6GB RAM + 128GB),14990,True,mediatek,Dimensity 6300,6.0,128.0,media
+773,poco,Poco M7 5G (8GB RAM + 128GB),13984,True,qualcomm,Snapdragon 4 Gen2,8.0,128.0,media
+774,xiaomi,Xiaomi Redmi Turbo 5,29990,True,mediatek,Dimensity 8500 Ultra,12.0,256.0,alta
+775,xiaomi,Xiaomi Redmi Note 14 Pro (8GB RAM + 256GB),22869,True,mediatek,Dimensity 7300 Ultra,8.0,256.0,media
+776,itel,itel S25 Ultra,17990,False,unisoc,Unisoc T620,8.0,128.0,media
+777,oppo,Oppo A5 Pro 5G,18999,True,mediatek,Dimensity 6300,8.0,128.0,media
+778,samsung,Samsung Galaxy S26 Plus,109999,True,samsung,Exynos 2600,12.0,256.0,alta
+779,apple,Apple iPhone 16 Plus (256GB),89900,True,apple,Bionic A18,8.0,256.0,media
+780,realme,Realme GT 8,52990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+781,realme,Realme Narzo 70 Turbo 5G,16999,True,mediatek,Dimensity 7300 Energy,6.0,128.0,media
+782,realme,Realme 14 5G,21990,True,qualcomm,Snapdragon 6 Gen4,12.0,256.0,alta
+783,oneplus,OnePlus Ace 5,26990,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+784,iqoo,iQOO Z9s Pro 5G,24999,True,qualcomm,Snapdragon 7 Gen3,8.0,128.0,media
+785,samsung,Samsung Galaxy F06 5G,11880,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+786,vivo,Vivo T3 Lite 5G (6GB RAM + 128GB),15490,True,mediatek,Dimensity 6300,6.0,128.0,media
+787,realme,Realme C61 (6GB RAM + 128GB),8199,False,unisoc,Unisoc T612,6.0,128.0,media
+788,oneplus,OnePlus Nord CE 4 Lite 5G (8GB RAM + 256GB),23899,True,qualcomm,Snapdragon 695,8.0,256.0,media
+789,oppo,OPPO Reno 13 Pro 5G,44999,True,mediatek,Dimensity 8350,12.0,256.0,alta
+790,xiaomi,Xiaomi Redmi K90,35990,True,qualcomm,Snapdragon 8 Elite,12.0,256.0,alta
+791,realme,Realme 12X (6GB RAM +128GB),12499,True,mediatek,Dimensity 6100 Plus,6.0,128.0,media
+792,realme,Realme 12X 5G (8GB RAM +128GB),13499,True,mediatek,Dimensity 6100 Plus,8.0,128.0,media
+793,infinix,Infinix GT 20 Pro,24999,True,mediatek,Dimensity 8200 Ultimate,8.0,256.0,media
+794,motorola,Motorola Moto G34 5G (8GB RAM + 128GB),14999,True,qualcomm,Snapdragon 695,8.0,128.0,media
+795,poco,Poco M6 Pro 5G (8GB RAM + 256GB),14999,True,qualcomm,Snapdragon 4 Gen2,8.0,256.0,media
+796,infinix,Infinix Smart 8,7299,False,mediatek,Helio G36,4.0,64.0,baixa
+797,motorola,Motorola Edge 50 Pro 5G,27999,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+798,vivo,Vivo T3x 5G,17499,True,qualcomm,Snapdragon 6 Gen1,4.0,128.0,baixa
+799,poco,Poco X5 Pro (8GB RAM + 256GB),19349,True,qualcomm,Snapdragon 778G,8.0,256.0,media
+800,oneplus,OnePlus 11 (16GB RAM + 256GB),38998,True,qualcomm,Snapdragon 8 Gen2,16.0,256.0,alta
+801,xiaomi,Xiaomi 14,64999,True,qualcomm,Snapdragon 8 Gen3,12.0,512.0,alta
+802,google,Google Pixel 8 Pro,79999,True,google,Tensor G3,12.0,128.0,alta
+803,samsung,Samsung Galaxy A82 5G,39990,True,qualcomm,Snapdragon 855+,6.0,128.0,media
+804,samsung,Samsung Galaxy F70 Pro 5G,32999,True,samsung,Exynos,8.0,128.0,media
+805,vivo,Vivo V80 Elite 5G,52990,True,qualcomm,Snapdragon 8s Gen4,8.0,256.0,media
+806,vivo,Vivo Y21 5G (6GB RAM + 128GB),20999,True,mediatek,Dimensity 6300,6.0,128.0,media
+807,samsung,Samsung Galaxy A37 5G (12GB RAM + 256 GB),52999,True,samsung,Exynos 1480,12.0,256.0,alta
+808,honor,Honor Magic 9 Pro,109990,True,unknown,Octa Core Processor,12.0,512.0,alta
+809,oppo,OPPO Reno 15 5G (12GB RAM + 512GB),53999,True,qualcomm,Snapdragon 7 Gen4,12.0,512.0,alta
+810,realme,Realme 16 Pro Plus 5G (12GB RAM + 512GB),51999,True,qualcomm,Snapdragon 7 Gen4,12.0,512.0,alta
+811,xiaomi,Xiaomi Redmi 15C 5G (8GB RAM + 128GB),16999,True,mediatek,Dimensity 6300,8.0,128.0,media
+812,motorola,Motorola Edge 70 Ultra,89990,True,qualcomm,Snapdragon 8 Gen 5,12.0,512.0,alta
+813,oppo,OPPO Find X9s Pro,79990,True,mediatek,Dimensity 9500s,16.0,512.0,alta
+814,vivo,Vivo X Fold 6,159999,True,qualcomm,Snapdragon 8 Gen 5,16.0,512.0,alta
+815,oppo,Oppo Find X9 5G (16GB RAM + 512GB),84999,True,mediatek,Dimensity 9500,16.0,512.0,alta
+816,samsung,Samsung Galaxy F17 5G (8GB RAM + 128GB),19283,True,samsung,Exynos 1330,8.0,128.0,media
+817,honor,Honor 500,39990,True,qualcomm,Snapdragon 8s Gen4,12.0,256.0,alta
+818,poco,Poco M8 Plus 5G,13999,True,qualcomm,Snapdragon 6s Gen4,6.0,128.0,media
+819,realme,Realme 15x 5G (8GB RAM + 128GB),19998,True,mediatek,Dimensity 6300,8.0,128.0,media
+820,realme,Realme 15x 5G (8GB RAM + 256GB),21999,True,mediatek,Dimensity 6300,8.0,256.0,media
+821,motorola,Motorola Moto X70 Air,29990,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+822,apple,Apple iPhone 17 Pro (512GB),149990,True,apple,Apple A19 Pro,12.0,512.0,alta
+823,samsung,Samsung Galaxy S25 FE (8GB RAM + 512GB),71490,True,samsung,Exynos 2400,8.0,512.0,media
+824,realme,Realme 15T (8GB RAM + 256GB),24999,True,mediatek,Dimensity 6400 Max,8.0,256.0,media
+825,infinix,Infinix Note 60x,12990,True,mediatek,Dimensity 7400,6.0,128.0,media
+826,infinix,Infinix HOT 70,12990,True,mediatek,Dimensity 7050,6.0,128.0,media
+827,vivo,Vivo T4R 5G (12GB RAM + 256GB),25840,True,mediatek,Dimensity 7400,12.0,256.0,alta
+828,realme,Realme C71 (6GB RAM + 128GB),10999,False,unisoc,Unisoc UMS9230E,6.0,128.0,media
+829,ai+,Ai+ Nova 5G (8GB RAM + 128GB),12999,True,unisoc,Unisoc T8200,8.0,128.0,media
+830,oppo,OPPO Reno 14 5G (12GB RAM + 512GB),47999,True,mediatek,Dimensity 8350,12.0,512.0,alta
+831,ai+,Ai+ Pulse,8499,False,unisoc,Unisoc T615,4.0,64.0,baixa
+832,realme,Realme Neo 7 Turbo (16GB RAM + 256GB),26990,True,mediatek,Dimensity 9400e,16.0,256.0,alta
+833,realme,Realme GT 10000 mAh,34990,True,unknown,Octa Core Processor,8.0,256.0,media
+834,samsung,Samsung Galaxy F56 5G (8GB RAM + 256GB),32542,True,samsung,Exynos 1480,8.0,256.0,media
+835,realme,Realme P1 Speed 5G (8GB RAM + 256GB),17999,True,mediatek,Dimensity 7300 E,8.0,256.0,media
+836,realme,Realme Narzo 80 Pro 5G (12GB RAM + 256GB),23999,True,mediatek,Dimensity 7400,12.0,256.0,alta
+837,nothing,Nothing Phone 3a Pro (12GB RAM + 256GB),34999,True,qualcomm,Snapdragon 7s Gen 3,12.0,256.0,alta
+838,samsung,Samsung Galaxy M06 (6GB RAM + 128GB),13499,True,mediatek,Dimensity 6300,6.0,128.0,media
+839,realme,Realme P3 Pro 5G (12GB RAM +256GB),23999,True,qualcomm,Snapdragon 7s Gen3,12.0,256.0,alta
+840,realme,Realme P3 Pro 5G (8GB RAM +256GB),21999,True,qualcomm,Snapdragon 7s Gen3,8.0,256.0,media
+841,vivo,Vivo X300 Pro Mini,59990,True,mediatek,Dimensity 9500,12.0,256.0,alta
+842,samsung,Samsung Galaxy S25 Edge,79999,True,qualcomm,Snapdragon 8Elite,12.0,256.0,alta
+843,oppo,OPPO Reno 13 5G (8GB+256GB),37998,True,mediatek,Dimensity 8350,8.0,256.0,media
+844,motorola,Motorola Moto G06,7999,False,mediatek,Helio G81 Ultra,4.0,64.0,baixa
+845,itel,itel Zeno 10,5999,False,unknown,Octa Core Processor,3.0,64.0,baixa
+846,xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 128GB),16999,True,mediatek,Dimensity 7025 Ultra,8.0,128.0,media
+847,realme,Realme C75,9990,False,mediatek,Helio G92 Max,8.0,128.0,media
+848,samsung,Samsung Galaxy A16 5G (6GB RAM + 128GB),15999,True,mediatek,Dimensity 6300,6.0,128.0,media
+849,google,Google Pixel 10 Pro Fold,159999,True,google,Tensor G5,16.0,256.0,alta
+850,motorola,Motorola Moto G77 5G,29990,True,mediatek,Dimensity 6400,8.0,128.0,media
+851,asus,Asus ROG Phone 9 Pro,101990,True,qualcomm,Snapdragon 8 Elite,16.0,512.0,alta
+852,vivo,Vivo Y03t,6499,False,unisoc,Unisoc T612,4.0,64.0,baixa
+853,oppo,Oppo F29,21999,True,qualcomm,Snapdragon 6 Gen1,8.0,128.0,media
+854,vivo,Vivo V50 Pro 5G,54990,True,mediatek,Dimensity 9300,8.0,256.0,media
+855,realme,Realme 14 Pro 5G,24990,True,mediatek,Dimensity 7300 Energy,8.0,128.0,media
+856,vivo,Vivo Y28s 5G (6GB RAM + 128GB),14499,True,mediatek,Dimensity 6300,6.0,128.0,media
+857,cmf,CMF Phone 1 (8GB RAM + 128GB),17999,True,mediatek,Dimensity 7300,8.0,128.0,media
+858,samsung,Samsung Galaxy A06s,9999,True,samsung,Octa Core Processor,4.0,128.0,baixa
+859,oppo,Oppo F27 Pro Plus 5G,25990,True,mediatek,Dimensity 7050,8.0,256.0,media
+860,realme,Realme GT 6T,26099,True,qualcomm,Snapdragon 7+ Gen3,8.0,128.0,media
+861,oppo,Oppo A3 Pro 5G,16999,True,mediatek,Dimensity 6300,8.0,128.0,media
+862,nubia,Nubia Neo 2,18990,True,unisoc,Unisoc T820,8.0,256.0,media
+863,realme,Realme 12 Pro Plus 5G (8GB RAM + 256GB),22999,True,qualcomm,Snapdragon 7s Gen2,8.0,256.0,media
+864,lava,Lava Yuva 4,6699,False,unisoc,unisoc T606,4.0,64.0,baixa
+865,poco,Poco X6 Neo,15999,True,mediatek,Dimensity 6080,8.0,128.0,media
+866,nubia,Nubia Z60 Ultra,52990,True,qualcomm,Snapdragon 8 Gen3,8.0,256.0,media
+867,apple,Apple iPhone 15 Pro Max (1TB),199900,True,apple,Bionic A17 Pro,8.0,1.0,media
+868,samsung,Samsung Galaxy Z Fold 6,139499,True,qualcomm,Snapdragon 8 Gen 3,12.0,256.0,alta
+869,infinix,Infinix Note 30 5G (8GB RAM + 256GB),15999,True,mediatek,Dimensity 6080,8.0,256.0,media
+870,realme,Realme C53,8994,False,unisoc,Tiger T612,4.0,128.0,baixa
+871,samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),24999,True,mediatek,Dimensity 1080,8.0,128.0,media
+872,tesla,Tesla Pi Phone,69999,True,unknown,Octa Core Processor,16.0,512.0,alta
+873,vivo,Vivo V29,31800,True,qualcomm,Snapdragon 778G,8.0,128.0,media
+874,vivo,Vivo X90 Pro 5G,54990,True,mediatek,Dimensity 9200,12.0,256.0,alta
+875,samsung,Samsung Galaxy A54 5G,41999,True,samsung,Exynos 1380,8.0,128.0,media
+876,oneplus,OnePlus 10 Pro 5G,39999,True,qualcomm,Snapdragon 8 Gen1,8.0,128.0,media
+877,samsung,Samsung Galaxy S22 5G,85999,True,qualcomm,Snapdragon  8 Gen1,8.0,128.0,media
+878,motorola,Motorola Moto G60,14999,False,qualcomm,Snapdragon  732G,6.0,128.0,media
+879,oppo,OPPO K14 5G (6GB RAM + 256GB),21999,True,mediatek,Dimensity 6300,6.0,256.0,media
+880,honor,Honor X80 GT,30990,True,unknown,Octa Core Processor,8.0,256.0,media
+881,oneplus,OnePlus 17,99990,True,qualcomm,Octa Core Processor,12.0,256.0,alta
+882,honor,Honor Play 80 Pro,27990,True,qualcomm,Snapdragon 6s Gen 3,6.0,256.0,media
+883,apple,Apple iPhone 18e,69990,True,apple,Apple A20,12.0,256.0,alta
+884,xiaomi,Xiaomi 18 Ultra,119990,True,qualcomm,Snapdragon 8 Elite Gen 6,16.0,512.0,alta
+885,realme,Realme C83 5G (6GB RAM + 128GB),18499,True,mediatek,Dimensity 6300,6.0,128.0,media
+886,infinix,Infinix Note Edge 5G (8GB RAM + 256GB),26999,True,mediatek,Dimensity 7100,8.0,256.0,media
+887,tecno,Tecno Camon 50 4G,24990,False,mediatek,Helio G200,8.0,256.0,media
+888,tecno,Tecno Camon 50 Pro 4G,29990,False,mediatek,Helio G200,8.0,256.0,media
+889,oppo,Oppo K14 Turbo,30990,True,mediatek,Dimensity 8500,8.0,128.0,media
+890,oppo,Oppo A6c,11990,False,qualcomm,Snapdragon 685,6.0,128.0,media
+891,lava,Lava Blaze Duo 3 5G,17999,True,mediatek,Dimensity 7060,6.0,128.0,media
+892,poco,Poco M8 5G (8GB RAM + 128GB),18899,True,qualcomm,Snapdragon 6 Gen3,8.0,128.0,media
+893,realme,Realme 16 Pro Plus 5G (8GB+256GB),45999,True,qualcomm,Snapdragon 7 Gen4,8.0,256.0,media
+894,xiaomi,Xiaomi Redmi Turbo 5 Pro,34990,True,mediatek,Dimensity 9500e,12.0,256.0,alta
+895,poco,POCO C85 5G (8GB RAM + 128GB),15990,True,mediatek,Dimensity 6300,8.0,128.0,media
+896,huawei,Huawei Mate 80 Pro Max,109990,True,hisilicon,Kirin 9030,16.0,512.0,alta
+897,oneplus,OnePlus Ace 6T,34990,True,qualcomm,Snapdragon 8 Gen5,12.0,256.0,alta
+898,oppo,Oppo K13s,19990,True,qualcomm,Snapdragon 7 Gen3,8.0,256.0,media
+899,hmd,HMD Vibe 5G,9999,True,unisoc,Unisoc T760,4.0,128.0,baixa
+900,oppo,Oppo F31 Pro 5G (8GB RAM + 256GB),29999,True,mediatek,Dimensity 7300 Energy,8.0,256.0,media
+901,honor,Honor Play 10C,7999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+902,infinix,Infinix GT 30 5G (8GB RAM+ 256GB),20999,True,mediatek,Dimensity 7400,8.0,256.0,media
+903,vivo,Vivo Y400 5G (8GB RAM + 256GB),27999,True,qualcomm,Snapdragon 4 Gen2,8.0,256.0,media
+904,xiaomi,Xiaomi 16 Pro Max,72999,True,unknown,Octa Core Processor,16.0,512.0,alta
+905,oppo,Oppo A5x 5G (6GB RAM + 128GB),16990,True,mediatek,Dimensity 6300,6.0,128.0,media
+906,samsung,Samsung Galaxy F36 5G (8GB RAM + 128GB),20999,True,samsung,Exynos 1380,8.0,128.0,media
+907,iqoo,iQOO Z10 Lite 5G (8GB RAM + 256GB),16999,True,mediatek,Dimensity 6300,8.0,256.0,media
+908,honor,Honor X70,16999,True,qualcomm,Snapdragon 6 Gen4,8.0,128.0,media
+909,realme,Realme Narzo 80 Lite (6GB RAM + 128GB),14479,True,mediatek,Dimensity 6300,6.0,128.0,media
+910,lava,Lava Storm Lite 5G (4GB RAM + 128GB),10499,True,mediatek,Dimensity 6400,4.0,128.0,baixa
+911,motorola,Motorola Razr 70,59990,True,qualcomm,Snapdragon 8S Elite,8.0,256.0,media
+912,tecno,Tecno Pova Curve 5G (8GB RAM + 128GB),18999,True,mediatek,Dimensity 7300 Ultimate,8.0,128.0,media
+913,realme,Realme GT 7T (12GB RAM + 512GB),41999,True,mediatek,Dimensity 8400-MAX,12.0,512.0,alta
+914,vivo,Vivo Y29t 5G,12999,True,unknown,Octa Core Processor,6.0,128.0,media
+915,itel,itel Zeno 5G,9999,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+916,iqoo,iQOO Z10x 5G (8GB RAM + 128GB),18998,True,mediatek,Dimensity 7300,8.0,128.0,media
+917,lava,Lava Bold 5G (6GB RAM + 128GB),16999,True,mediatek,Dimensity 6300,6.0,128.0,media
+918,vivo,Vivo S30,31990,True,qualcomm,Snapdragon 7 Gen4,12.0,256.0,alta
+919,vivo,Vivo Y40,19999,True,unknown,Octa Core Processor,8.0,128.0,media
+920,samsung,Samsung Galaxy S25 (12GB RAM + 128GB),74999,True,qualcomm,Snapdragon 8Elite,12.0,128.0,alta
+921,samsung,Samsung Galaxy A36 5G (12GB RAM + 256GB),38499,True,qualcomm,Snapdragon 6 Gen3,12.0,256.0,alta
+922,samsung,Samsung Galaxy A56 5G (12GB RAM + 256GB),47999,True,samsung,Exynos 1580,12.0,256.0,alta
+923,honor,Honor 400 Pro,64990,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+924,realme,Realme 14T 5G,17999,True,mediatek,Dimensity 6300,8.0,128.0,media
+925,poco,Poco X7 Pro Iron Man Edition,34990,True,mediatek,Dimensity 8400 Ultra,12.0,512.0,alta
+926,vivo,Vivo Y60,22990,True,qualcomm,Snapdragon 4 Gen2,8.0,256.0,media
+927,poco,Poco X8 5G,29990,True,unknown,Octa Core Processor,8.0,256.0,media
+928,vivo,Vivo Y29 5G (6GB+128GB),15499,True,mediatek,Dimensity 6300,6.0,128.0,media
+929,vivo,Vivo X200 (16GB RAM + 512GB),60999,True,mediatek,Dimensity 9400,16.0,512.0,alta
+930,xiaomi,Xiaomi Redmi A4 5G (4GB RAM + 128GB),11999,True,qualcomm,Snapdragon 4s Gen2,4.0,128.0,baixa
+931,vivo,Vivo X200 Pro Mini,55990,True,mediatek,Dimensity 9400,12.0,256.0,alta
+932,motorola,Motorola Razr 60 5G,49999,True,mediatek,Dimensity 7400X,8.0,256.0,media
+933,motorola,Motorola Moto G75 5G,32990,True,qualcomm,Snapdragon 6 Gen3,8.0,256.0,media
+934,huawei,Huawei Mate XT Ultimate,235990,True,hisilicon,Octa Core Processor,16.0,256.0,alta
+935,iqoo,iQOO Z9s 5G,25490,True,mediatek,Dimensity 7300,8.0,128.0,media
+936,hmd,HMD Crest,10416,True,unisoc,Unisoc T760,6.0,128.0,media
+937,oneplus,OnePlus Nord 4 5G (12GB RAM + 256GB),29942,True,qualcomm,Snapdragon 7+ Gen3,12.0,256.0,alta
+938,vivo,Vivo Y28e 5G (4GB RAM + 64GB),9999,True,mediatek,Dimensity 6300,4.0,64.0,baixa
+939,oppo,OPPO A3x 5G,11499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+940,samsung,Samsung Galaxy Z Flip 7 5G,95999,True,samsung,Exynos 2500,12.0,256.0,alta
+941,realme,Realme GT 6 5G (12GB RAM + 256GB),46480,True,qualcomm,Snapdragon 8s Gen3,12.0,256.0,alta
+942,xiaomi,Xiaomi 14 Civi (12GB RAM + 512GB),44999,True,qualcomm,Snapdragon 8s Gen3,12.0,512.0,alta
+943,poco,Poco M6 Plus 5G,13499,True,qualcomm,Snapdragon 4 Gen2 AE,6.0,128.0,media
+944,tecno,Tecno Camon 30 5G (12GB RAM + 512GB),31990,True,mediatek,Dimensit 7020,12.0,512.0,alta
+945,honor,Honor 200 Lite,24999,True,mediatek,Dimensity 6080,8.0,256.0,media
+946,oppo,OPPO K15 Turbo Pro,45999,True,unknown,Octa Core Processor,8.0,256.0,media
+947,oppo,Oppo A60 5G,14990,True,mediatek,Dimensity 6300,6.0,128.0,media
+948,infinix,Infinix Hot 50 Pro,15990,False,mediatek,Helio G100,8.0,128.0,media
+949,iqoo,iQOO Neo 9 Pro 5G (12GB RAM + 256GB),37990,True,qualcomm,Snapdragon 8 Gen2,12.0,256.0,alta
+950,samsung,Samsung Galaxy S24 (8GB RAM + 128GB),49998,True,samsung,Exynos 2400,8.0,128.0,media
+951,poco,Poco X6 Pro 5G (12GB RAM + 512GB),29999,True,mediatek,Dimensity 8300 Ultra,12.0,512.0,alta
+952,oppo,Oppo Find X7 Ultra,69990,True,qualcomm,Snapdragon 8 Gen3,12.0,256.0,alta
+953,vivo,Vivo S19 Pro,37990,True,mediatek,Dimensity 9200 Plus,8.0,256.0,media
+954,iqoo,iQOO 12 5G (16GB RAM + 512GB),57699,True,qualcomm,Snapdragon 8 Gen3,16.0,512.0,alta
+955,samsung,Samsung Galaxy A15 5G,21499,True,mediatek,Dimensity 6100 Plus,8.0,128.0,media
+956,xiaomi,Xiaomi Redmi 13C 5G,9999,True,mediatek,Dimensity 6100 Plus,4.0,128.0,baixa
+957,motorola,Motorola Edge 40 Neo (12GB RAM + 256GB),22990,True,mediatek,Dimensity 7030,12.0,256.0,alta
+958,apple,Apple iPhone 17 Plus,99999,True,apple,Apple A19,8.0,256.0,media
+959,iqoo,iQOO Z9x,17990,True,qualcomm,Snapdragon 6 Gen1,4.0,128.0,baixa
+960,motorola,Motorola Moto G54 5G (12GB RAM +256GB),20999,True,mediatek,Dimensity 7020,12.0,256.0,alta
+961,xiaomi,Xiaomi Redmi 12 5G (6GB RAM + 128GB),12494,True,qualcomm,Snapdragon 4 Gen2,6.0,128.0,media
+962,poco,Poco C65,8499,False,mediatek,Helio G85,4.0,128.0,baixa
+963,nubia,Nubia Neo,15990,True,unisoc,Unisoc T820,8.0,256.0,media
+964,vivo,Vivo V29e,26999,True,qualcomm,Snapdragon 695,8.0,128.0,media
+965,lava,Lava Agni 3 5G,20999,True,mediatek,Dimensity 7300X,8.0,128.0,media
+966,samsung,Samsung Galaxy F15 5G,13499,True,mediatek,Dimensity 6100 Plus,4.0,128.0,baixa
+967,samsung,Samsung Galaxy F54,35999,True,samsung,Exynos 1380,8.0,256.0,media
+968,oneplus,OnePlus 11R (16GB RAM + 256GB),34991,True,qualcomm,Snapdragon 8+ Gen1,16.0,256.0,alta
+969,oppo,Oppo Find X6 Pro,71990,True,qualcomm,Snapdragon 8 Gen2,12.0,256.0,alta
+970,samsung,Samsung Galaxy A14 5G,18499,True,samsung,Exynos 1330,4.0,64.0,baixa
+971,motorola,Motorola Edge 40 5G,29999,True,mediatek,Dimensity 8020,8.0,256.0,media
+972,samsung,Samsung Galaxy M34 5G,21900,True,samsung,Exynos 1280 ,6.0,128.0,media
+973,poco,Poco X6 5G,21999,True,qualcomm,Snapdragon 7s Gen 2,8.0,256.0,media
+974,iqoo,iQOO 9 SE 5G,27999,True,qualcomm,Snapdragon  888 ,8.0,128.0,media
+975,oneplus,OnePlus Nord 2T 5G,28999,True,mediatek,Dimensity 1300,8.0,128.0,media
+976,oneplus,OnePlus 10R 5G,29999,True,mediatek,Dimensity 8100 Max,8.0,128.0,media
+977,xiaomi,Xiaomi Redmi Note 12 Pro 5G,21499,True,mediatek,Dimensity 1080,6.0,128.0,media
+978,samsung,Samsung Galaxy S21 FE 5G,74999,True,samsung,Exynos 2100,8.0,128.0,media
+979,realme,Realme 7,11999,False,mediatek,Helio  G95,6.0,64.0,media
+980,oneplus,OnePlus 8T,23999,True,qualcomm,Snapdragon 865,8.0,128.0,media
+981,apple,Apple iPhone 12 Pro Max,119900,True,apple,Bionic A14,6.0,128.0,media
+982,xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,False,qualcomm,Snapdragon  855,8.0,256.0,media
+983,tecno,Tecno Camon Slim,22999,True,mediatek,Dimensity 7100,8.0,128.0,media
+984,motorola,Motorola Edge 70 Fusion Plus,49999,True,qualcomm,Snapdragon 7s Gen4,12.0,256.0,alta
+985,samsung,Samsung Galaxy S27 5G,94990,True,samsung,Exynos,12.0,256.0,alta
+986,apple,Apple iPhone 17e (512GB),84900,True,apple,Apple A19,8.0,512.0,media
+987,realme,Realme P4 Lite 4G,10480,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+988,oppo,Oppo Find X10 Pro Max 5G,129990,True,mediatek,Dimensity 9600,16.0,512.0,alta
+989,xiaomi,Xiaomi Redmi K90 Ultra,69990,True,mediatek,Dimensity 9500,12.0,256.0,alta
+990,huawei,Huawei Pura X2,99990,True,hisilicon,Kirin 9030,12.0,256.0,alta
+991,tecno,Tecno Spark GO 3,9990,False,unisoc,Unisoc T7250,4.0,64.0,baixa
+992,realme,Realme C85 5G (6GB RAM + 128GB),17999,True,mediatek,Dimensity 6300,6.0,128.0,media
+993,vivo,Vivo X500,57990,True,mediatek,Dimensity 9600,12.0,256.0,alta
+994,vivo,Vivo Y19s 5G (4GB RAM + 128GB),13499,True,mediatek,Dimensity 6300,4.0,128.0,baixa
+995,oukitel,Oukitel WP60 5G,24699,True,mediatek,Dimensity 7025,8.0,256.0,media
+996,vivo,Vivo S50,39990,True,qualcomm,Snapdragon 8s Gen3,12.0,256.0,alta
